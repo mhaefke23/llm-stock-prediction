@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+python-dotenv
+requests
+pytz
+ollama
+sentence-transformers
+scikit-learn
+torch
+matplotlib
+jupyter
