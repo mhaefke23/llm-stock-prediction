@@ -1,52 +1,54 @@
 """
 model.py
 --------
-Defines the LSTM model used for all three conditions (C1, C2, C3).
-The architecture is identical across conditions — only input_dim changes.
+LSTMForecaster: adapted from
+  github.com/AmirhosseinHonardoust/Stock-LSTM-Forecasting
 
-Architecture:
-  - 2-layer LSTM (hidden_size=64, dropout between layers)
-  - Fully connected output layer → single scalar (next-day log return)
+Changes from source:
+  - input_size is a required argument (multivariate features, not
+    univariate close price)
+  - Output is a single scalar — next-day log return (horizon fixed at 1)
+  - squeeze(1) on output to match (batch,) shape expected by train.py
 """
 
 import torch
 import torch.nn as nn
 
 
-class StockLSTM(nn.Module):
+class LSTMForecaster(nn.Module):
     """
     2-layer LSTM for next-day log return prediction.
 
     Args:
-        input_dim  : number of input features (varies by condition)
-        hidden_dim : number of LSTM hidden units (default 64)
-        num_layers : number of stacked LSTM layers (default 2)
-        dropout    : dropout probability between LSTM layers (default 0.2)
+        input_size  : number of input features (varies by condition)
+        hidden_size : LSTM hidden units          (default 64)
+        num_layers  : stacked LSTM layers        (default 2)
+        dropout     : dropout between LSTM layers (default 0.2)
     """
 
-    def __init__(self, input_dim: int, hidden_dim: int = 64, num_layers: int = 2, dropout: float = 0.2):
+    def __init__(
+        self,
+        input_size: int,
+        hidden_size: int = 64,
+        num_layers: int = 2,
+        dropout: float = 0.2,
+    ):
         super().__init__()
-        self.hidden_dim = hidden_dim
-        self.num_layers = num_layers
-
         self.lstm = nn.LSTM(
-            input_size=input_dim,
-            hidden_size=hidden_dim,
+            input_size=input_size,
+            hidden_size=hidden_size,
             num_layers=num_layers,
-            batch_first=True,           # input shape: (batch, seq_len, input_dim)
+            batch_first=True,
             dropout=dropout if num_layers > 1 else 0.0,
         )
-        self.fc = nn.Linear(hidden_dim, 1)
+        self.fc = nn.Linear(hidden_size, 1)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
         Args:
-            x : (batch_size, seq_len, input_dim)
+            x   : (batch_size, seq_len, input_size)
         Returns:
             out : (batch_size,) — predicted next-day log return
         """
-        lstm_out, _ = self.lstm(x)
-        # Use only the last time step's output for prediction
-        last = lstm_out[:, -1, :]       # (batch_size, hidden_dim)
-        out  = self.fc(last).squeeze(1) # (batch_size,)
-        return out
+        out, _ = self.lstm(x)
+        return self.fc(out[:, -1, :]).squeeze(1)

@@ -1,20 +1,28 @@
 """
 train.py
 --------
-Trains one StockLSTM per condition (C1, C2, C3) and evaluates each on
-the held-out test set. Saves predictions and metrics to results/.
+Trains one LSTMForecaster per condition (C1, C2, C3) and evaluates each
+on the held-out test set. Saves predictions and metrics to results/.
 
-Split (strictly by time, no shuffling):
+Adapted from github.com/AmirhosseinHonardoust/Stock-LSTM-Forecasting.
+Key changes vs source:
+  - Multivariate input (all feature columns, not just close price)
+  - Target is next-day log return (already in features_c*.csv as "target")
+  - Features are pre-scaled by features.py — no re-scaling here
+  - 70 / 15 / 15 time-based splits (source used 80/20, no test set)
+  - SEQ_LEN=60 lookback (source default)
+  - shuffle=True for train DataLoader (valid for independent windows)
+  - Early stopping patience=10
+  - Additional metrics: R², directional accuracy
+
+Split (strictly by time, no shuffling of rows):
   Train : first 70%
-  Val   : next  15%  (used for early stopping)
+  Val   : next  15%  (early stopping)
   Test  : last  15%
-
-Sequence length: 20 trading days (sliding window)
-Loss: MSE  |  Optimizer: Adam, lr=1e-3
-Early stopping: patience=10 epochs on val loss
 
 Outputs (written to results/):
   predictions_C1.csv, predictions_C2.csv, predictions_C3.csv
+  loss_C1.csv, loss_C2.csv, loss_C3.csv
   metrics.csv
 """
 
@@ -24,9 +32,9 @@ import numpy as np
 import pandas as pd
 import torch
 import torch.nn as nn
-from torch.utils.data import DataLoader, Dataset
+from torch.utils.data import DataLoader, TensorDataset
 
-from model import StockLSTM
+from model import LSTMForecaster
 
 # ── Config ────────────────────────────────────────────────────────────────────
 FEATURE_FILES = {
@@ -35,12 +43,13 @@ FEATURE_FILES = {
     "C3": Path("data/processed/features_c3.csv"),
 }
 RESULTS_DIR = Path("results")
-SEQ_LEN     = 20
-BATCH_SIZE  = 16
+SEQ_LEN     = 20    # lookback window — source default is 60, but our dataset
+                    # is ~224 rows; 60 leaves too few val/test windows
+BATCH_SIZE  = 64
 MAX_EPOCHS  = 100
 LR          = 1e-3
 PATIENCE    = 10
-HIDDEN_DIM  = 64
+HIDDEN_SIZE = 64
 NUM_LAYERS  = 2
 DROPOUT     = 0.2
 TRAIN_FRAC  = 0.70
@@ -52,29 +61,37 @@ np.random.seed(SEED)
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
-# ── Dataset ───────────────────────────────────────────────────────────────────
+# ── Dataset helpers ───────────────────────────────────────────────────────────
 
-class SequenceDataset(Dataset):
-    """Sliding-window dataset. Each sample is SEQ_LEN consecutive rows."""
-
-    def __init__(self, features: np.ndarray, targets: np.ndarray, seq_len: int):
-        self.X = torch.tensor(features, dtype=torch.float32)
-        self.y = torch.tensor(targets,  dtype=torch.float32)
-        self.seq_len = seq_len
-
-    def __len__(self):
-        return len(self.X) - self.seq_len
-
-    def __getitem__(self, idx):
-        x = self.X[idx : idx + self.seq_len]
-        y = self.y[idx + self.seq_len]
-        return x, y
+def make_windows(features: np.ndarray, targets: np.ndarray, seq_len: int):
+    """
+    Build sliding-window (X, y) arrays.
+    X[i] = features[i : i+seq_len]   shape (seq_len, n_features)
+    y[i] = targets[i + seq_len]       scalar
+    """
+    X, y = [], []
+    for i in range(len(features) - seq_len):
+        X.append(features[i : i + seq_len])
+        y.append(targets[i + seq_len])
+    return np.array(X, dtype=np.float32), np.array(y, dtype=np.float32)
 
 
 # ── Data loading ──────────────────────────────────────────────────────────────
 
 def load_splits(csv_path: Path):
-    """Load a feature CSV and return train/val/test feature and target arrays."""
+    """
+    Load a pre-scaled feature CSV and return train/val/test tensors
+    plus the test-set dates for saving predictions.
+
+    Windows are built over the FULL series, then split by target date.
+    Window i has target at index (i + SEQ_LEN), so:
+      train : target index < train_end
+      val   : train_end <= target index < val_end
+      test  : target index >= val_end
+    This ensures val/test have SEQ_LEN-sized lookback even when the
+    individual splits are shorter than SEQ_LEN rows (which happens with
+    our ~224-row dataset and larger lookback values).
+    """
     df = pd.read_csv(csv_path, index_col="date", parse_dates=True)
     n  = len(df)
 
@@ -86,38 +103,47 @@ def load_splits(csv_path: Path):
     y = df["target"].values.astype(np.float32)
     dates = df.index
 
-    return (
-        X[:train_end],        y[:train_end],
-        X[train_end:val_end], y[train_end:val_end],
-        X[val_end:],          y[val_end:],
-        dates[val_end:],      # test dates (for saving predictions)
-    )
+    # Build all windows once over the full series
+    X_all, y_all = make_windows(X, y, SEQ_LEN)
+    # Window i → target row index (i + SEQ_LEN) in the original df
+
+    train_cut = train_end - SEQ_LEN   # last train window index (exclusive)
+    val_cut   = val_end   - SEQ_LEN   # last val window index   (exclusive)
+
+    X_train, y_train = X_all[:train_cut],          y_all[:train_cut]
+    X_val,   y_val   = X_all[train_cut:val_cut],   y_all[train_cut:val_cut]
+    X_test,  y_test  = X_all[val_cut:],            y_all[val_cut:]
+
+    # Target dates for test windows: rows val_end .. n-1
+    test_dates = dates[val_end:]
+
+    print(f"  Windows — train: {len(X_train)}  val: {len(X_val)}  test: {len(X_test)}")
+    return X_train, y_train, X_val, y_val, X_test, y_test, test_dates, X.shape[1]
 
 
 # ── Training ──────────────────────────────────────────────────────────────────
 
 def train_model(condition: str, csv_path: Path) -> tuple:
     """
-    Train a StockLSTM for one condition.
+    Train a LSTMForecaster for one condition.
     Returns (metrics_dict, predictions_df, loss_history_df).
     """
     print(f"\n{'='*60}")
     print(f"  Training {condition}  ({csv_path.name})")
     print(f"{'='*60}")
 
-    X_train, y_train, X_val, y_val, X_test, y_test, test_dates, = load_splits(csv_path)
-    input_dim = X_train.shape[1]
-    print(f"  Input dim: {input_dim}  |  Train: {len(X_train)}  Val: {len(X_val)}  Test: {len(X_test)}")
+    X_train, y_train, X_val, y_val, X_test, y_test, test_dates, n_features = load_splits(csv_path)
+    print(f"  Features: {n_features}")
 
-    train_ds = SequenceDataset(X_train, y_train, SEQ_LEN)
-    val_ds   = SequenceDataset(X_val,   y_val,   SEQ_LEN)
-    test_ds  = SequenceDataset(X_test,  y_test,  SEQ_LEN)
+    def make_loader(X, y, shuffle):
+        ds = TensorDataset(torch.tensor(X), torch.tensor(y))
+        return DataLoader(ds, batch_size=BATCH_SIZE, shuffle=shuffle)
 
-    train_dl = DataLoader(train_ds, batch_size=BATCH_SIZE, shuffle=False)
-    val_dl   = DataLoader(val_ds,   batch_size=BATCH_SIZE, shuffle=False)
-    test_dl  = DataLoader(test_ds,  batch_size=BATCH_SIZE, shuffle=False)
+    train_dl = make_loader(X_train, y_train, shuffle=True)   # shuffle independent windows
+    val_dl   = make_loader(X_val,   y_val,   shuffle=False)
+    test_dl  = make_loader(X_test,  y_test,  shuffle=False)
 
-    model     = StockLSTM(input_dim, HIDDEN_DIM, NUM_LAYERS, DROPOUT).to(DEVICE)
+    model     = LSTMForecaster(n_features, HIDDEN_SIZE, NUM_LAYERS, DROPOUT).to(DEVICE)
     optimizer = torch.optim.Adam(model.parameters(), lr=LR)
     criterion = nn.MSELoss()
 
@@ -127,35 +153,33 @@ def train_model(condition: str, csv_path: Path) -> tuple:
     loss_history  = []
 
     for epoch in range(1, MAX_EPOCHS + 1):
-        # Train
+        # ── train ──
         model.train()
         train_loss = 0.0
         for xb, yb in train_dl:
             xb, yb = xb.to(DEVICE), yb.to(DEVICE)
             optimizer.zero_grad()
-            pred = model(xb)
-            loss = criterion(pred, yb)
+            loss = criterion(model(xb), yb)
             loss.backward()
             nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
             optimizer.step()
-            train_loss += loss.item() * len(xb)
-        train_loss /= len(train_ds)
+            train_loss += loss.item() * xb.size(0)
+        train_loss /= len(X_train)
 
-        # Validate
+        # ── validate ──
         model.eval()
         val_loss = 0.0
         with torch.no_grad():
             for xb, yb in val_dl:
                 xb, yb = xb.to(DEVICE), yb.to(DEVICE)
-                val_loss += criterion(model(xb), yb).item() * len(xb)
-        val_loss /= max(len(val_ds), 1)
+                val_loss += criterion(model(xb), yb).item() * xb.size(0)
+        val_loss /= max(len(X_val), 1)
 
         loss_history.append({"epoch": epoch, "train_loss": train_loss, "val_loss": val_loss})
 
         if epoch % 10 == 0 or epoch == 1:
-            print(f"  Epoch {epoch:>3}  train_loss={train_loss:.6f}  val_loss={val_loss:.6f}")
+            print(f"  Epoch {epoch:>3}  train={train_loss:.6f}  val={val_loss:.6f}")
 
-        # Early stopping
         if val_loss < best_val_loss:
             best_val_loss = val_loss
             best_state    = {k: v.clone() for k, v in model.state_dict().items()}
@@ -163,16 +187,11 @@ def train_model(condition: str, csv_path: Path) -> tuple:
         else:
             patience_cnt += 1
             if patience_cnt >= PATIENCE:
-                print(f"  Early stopping at epoch {epoch} (best val_loss={best_val_loss:.6f})")
+                print(f"  Early stopping at epoch {epoch}  (best val={best_val_loss:.6f})")
                 break
 
     model.load_state_dict(best_state)
-
-    # Evaluate
-    metrics, pred_df = evaluate(model, test_dl, test_dates)
-    print(f"\n  Test results for {condition}:")
-    for k, v in metrics.items():
-        print(f"    {k:<22}: {v:.4f}")
+    metrics, pred_df = evaluate(model, test_dl, test_dates, condition)
 
     loss_df = pd.DataFrame(loss_history)
     return metrics, pred_df, loss_df
@@ -180,34 +199,32 @@ def train_model(condition: str, csv_path: Path) -> tuple:
 
 # ── Evaluation ────────────────────────────────────────────────────────────────
 
-def evaluate(model: StockLSTM, test_dl: DataLoader, test_dates) -> tuple:
+def evaluate(model, test_dl, test_dates, condition: str) -> tuple:
     """
     Compute MAE, RMSE, MAPE, R², and directional accuracy on the test set.
-    Returns (metrics_dict, predictions_df with columns [date, actual, predicted]).
     """
     model.eval()
     preds, actuals = [], []
-
     with torch.no_grad():
         for xb, yb in test_dl:
-            xb = xb.to(DEVICE)
-            preds.append(model(xb).cpu().numpy())
+            preds.append(model(xb.to(DEVICE)).cpu().numpy())
             actuals.append(yb.numpy())
 
     preds   = np.concatenate(preds)
     actuals = np.concatenate(actuals)
 
-    mae  = np.mean(np.abs(preds - actuals))
-    rmse = np.sqrt(np.mean((preds - actuals) ** 2))
+    mae  = float(np.mean(np.abs(preds - actuals)))
+    rmse = float(np.sqrt(np.mean((preds - actuals) ** 2)))
 
     nonzero = actuals != 0
-    mape = np.mean(np.abs((preds[nonzero] - actuals[nonzero]) / actuals[nonzero])) * 100
+    mape = float(np.mean(np.abs((preds[nonzero] - actuals[nonzero])
+                                 / actuals[nonzero])) * 100) if nonzero.any() else float("nan")
 
     ss_res = np.sum((actuals - preds) ** 2)
     ss_tot = np.sum((actuals - actuals.mean()) ** 2)
-    r2 = 1 - ss_res / ss_tot if ss_tot > 0 else float("nan")
+    r2 = float(1 - ss_res / ss_tot) if ss_tot > 0 else float("nan")
 
-    dir_acc = np.mean(np.sign(preds) == np.sign(actuals)) * 100
+    dir_acc = float(np.mean(np.sign(preds) == np.sign(actuals)) * 100)
 
     metrics = {
         "MAE":                 mae,
@@ -217,10 +234,12 @@ def evaluate(model: StockLSTM, test_dl: DataLoader, test_dates) -> tuple:
         "Directional Acc (%)": dir_acc,
     }
 
-    # Align dates: the dataset drops the first SEQ_LEN rows (no history yet)
-    pred_dates = test_dates[SEQ_LEN:]
+    print(f"\n  Test results for {condition}:")
+    for k, v in metrics.items():
+        print(f"    {k:<22}: {v:.4f}")
+
     pred_df = pd.DataFrame({
-        "date":      pred_dates,
+        "date":      test_dates,
         "actual":    actuals,
         "predicted": preds,
     }).set_index("date")
@@ -236,6 +255,9 @@ def main():
 
     all_metrics = {}
     for condition, path in FEATURE_FILES.items():
+        if not path.exists():
+            print(f"Skipping {condition} — {path} not found.")
+            continue
         metrics, pred_df, loss_df = train_model(condition, path)
         all_metrics[condition] = metrics
         pred_df.to_csv(RESULTS_DIR / f"predictions_{condition}.csv")
