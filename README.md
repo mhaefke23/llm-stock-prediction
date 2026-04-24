@@ -17,11 +17,11 @@ Compares three LSTM-based models for predicting next-day AAPL log returns, progr
 
 | | MAE | RMSE | R² | Directional Acc |
 |---|---|---|---|---|
-| C1 — Baseline | 0.0099 | 0.0131 | -0.08 | 53.3% |
-| C2 — LLM Embeddings | 0.0102 | 0.0136 | -0.17 | **66.7%** |
-| C3 — LLM Predictor | 0.0132 | 0.0166 | -0.75 | 33.3% |
+| C1 — Baseline | 0.0098 | 0.0130 | -0.01 | **60.0%** |
+| C2 — LLM Embeddings | 0.0114 | 0.0146 | -0.27 | 48.6% |
+| C3 — LLM Predictor | 0.0107 | 0.0137 | -0.12 | 51.4% |
 
-C2 outperforms the baseline on directional accuracy (the most practically meaningful metric), suggesting LLM-generated news summaries carry predictive signal beyond price data alone.
+C1 achieves the best directional accuracy (60%), meaningfully above the 50% random baseline. C2 and C3 underperform C1, suggesting that in the current setup the LLM-generated features add noise rather than signal — likely due to the small dataset size (~224 days) limiting the model's ability to learn from the additional feature dimensions.
 
 ## Pipeline
 
