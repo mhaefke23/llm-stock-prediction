@@ -5,6 +5,7 @@ python-dotenv
 requests
 pytz
 ollama
+openai
 sentence-transformers
 scikit-learn
 torch
