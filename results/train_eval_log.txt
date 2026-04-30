@@ -1,0 +1,22 @@
+Device: cpu
+Total rows (after dropna) : 438
+Warm-up window            : 250 days
+Evaluation days available : 188
+[step    0 | day 2025-07-30] Retraining on rows 0–249  (184 train / 47 val windows)
+[step   20 | day 2025-08-27] Retraining on rows 20–269  (184 train / 47 val windows)
+[step   40 | day 2025-09-25] Retraining on rows 40–289  (184 train / 47 val windows)
+[step   60 | day 2025-10-23] Retraining on rows 60–309  (184 train / 47 val windows)
+[step   80 | day 2025-11-20] Retraining on rows 80–329  (184 train / 47 val windows)
+[step  100 | day 2025-12-19] Retraining on rows 100–349  (184 train / 47 val windows)
+[step  120 | day 2026-01-21] Retraining on rows 120–369  (184 train / 47 val windows)
+[step  140 | day 2026-02-19] Retraining on rows 140–389  (184 train / 47 val windows)
+[step  160 | day 2026-03-19] Retraining on rows 160–409  (184 train / 47 val windows)
+[step  180 | day 2026-04-17] Retraining on rows 180–429  (184 train / 47 val windows)
+
+Saved 188 predictions → /Users/mhaefke/VS Code/llm-stock-prediction/src/../results/predictions_B.csv
+
+── Condition B — LSTM Baseline ───────────────
+Evaluation days : 188
+MAE             : 0.011478
+RMSE            : 0.015437
+Dir. Accuracy   : 52.7%  (random baseline: 50.0%)
