@@ -115,7 +115,6 @@ def call_gpt(prompt: str, retries: int = 3) -> dict:
                     {"role": "user", "content": prompt},
                 ],
                 response_format={"type": "json_object"},
-                temperature=0.1,
             )
             content = response.choices[0].message.content
             result = _parse_response(content)

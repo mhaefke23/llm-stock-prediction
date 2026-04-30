@@ -1,0 +1,14 @@
+date,direction,confidence,reasoning
+2026-02-20,up,0.5,"With no news or data provided, there is no basis to predict movement, so the next-day move is essentially a coin flip."
+2026-02-23,up,0.5,"With no new information from today's headlines, the next-day move is essentially a coin flip."
+2026-02-24,up,0.5,"No market-moving news today; without catalysts, tomorrow's move is essentially unpredictable with roughly equal likelihood of up or down."
+2026-02-25,up,0.5,"In absence of any news catalysts, price movement is effectively unpredictable and follows a random-walk pattern."
+2026-02-26,up,0.5,"No news or catalysts today; next-day movement is effectively unpredictable and could go either way, treated as a coin flip with no bias."
+2026-02-27,up,0.5,"No headlines today provide directional bias, so the next day's move is essentially a coin flip."
+2026-03-02,up,0.5,"No news today provides no clear directional signal, so the forecast is neutral with about a 50% chance of a higher close tomorrow."
+2026-03-03,up,0.5,"No headlines today provide no signal, so the next-day move is essentially random."
+2026-03-04,up,0.5,"No news today; in the absence of catalysts, next-day movement is effectively uncertain."
+2026-03-05,up,0.5,No headlines today provide a directional signal; the next-day move is essentially random with roughly a 50/50 chance of closing higher.
+2026-03-06,up,0.5,"No news today provides no clear catalyst, so tomorrow's move is uncertain and could lean in either direction."
+2026-03-09,up,0.5,"With no news or catalysts today, the next-day move is effectively a coin flip driven by random market fluctuations."
+2026-03-10,up,0.5,"With no news or catalysts published today, the next day's move is essentially a coin flip with about a 50% chance of closing higher."
