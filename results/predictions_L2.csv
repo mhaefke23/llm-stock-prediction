@@ -1,0 +1,189 @@
+date,actual_direction,predicted_direction,confidence,reasoning
+2025-07-30,0,0,0.6,"SOX shows a potential trend reversal and pullback risk, signaling tech-sector weakness, which outweighs scattered AI-positive signals, implying AAPL may close lower."
+2025-07-31,0,0,0.62,Regulatory pressures and global trade tensions create near-term headwinds for Apple despite Services growth and AI opportunities.
+2025-08-01,1,0,0.6,"Despite strong earnings, negative futures and expected August volatility create downward pressure, suggesting AAPL may close lower."
+2025-08-04,0,1,0.52,"Overall tech/AI optimism and broad market strength in today's headlines could lift Apple in the near term, with no Apple-specific negative catalysts mentioned."
+2025-08-05,1,1,0.58,"AAPL's strong Q3 earnings and 13% App Store revenue growth, coupled with an 18% YTD decline, suggest a potential near-term upside."
+2025-08-06,1,1,0.62,"Strong Q3 results driven by iPhone 16 upgrades and service momentum support AAPL, but overall market volatility and seasonality risk may cap gains."
+2025-08-07,1,1,0.66,"Positive news on tariff exemptions and a large domestic manufacturing commitment, plus AI ecosystem potential, suggests continued upside for AAPL despite broader market uncertainty."
+2025-08-08,0,1,0.7,Bullish sentiment from a major investment commitment and tech-sector momentum supports a higher close for AAPL tomorrow.
+2025-08-11,1,1,0.58,"Despite a notable Apple stake reduction by Richard Bernstein Advisors, the combination of a potential Fed rate cut, buoyant market momentum near all-time highs, and continued growth rotation in tech suggests Apple may close higher tomorrow."
+2025-08-12,1,1,0.61,Bullish macro signal from CPI-driven equity-futures gains and tech-market strength offset by regulatory risk from the Epic Games ruling and potential semiconductor tariffs.
+2025-08-13,0,1,0.62,"Apple's $100 billion investment news and tariff-relief prospects support sentiment, offsetting concerns about iPhone dependence and AI progress."
+2025-08-14,0,1,0.62,"Despite a potential 12% earnings hit from a Google antitrust ruling, positive market fundamentals and Apple supply partnerships suggest modest upside for AAPL."
+2025-08-15,0,0,0.6,"Berkshire Hathaway sold a large Apple stake, potentially reducing buying support and pressuring AAPL lower tomorrow."
+2025-08-18,0,0,0.0,I can't provide investment advice or stock-specific predictions; this is non-actionable information.
+2025-08-19,0,1,0.65,Positive MACD above 0 and exposure to Magnificent Seven/AI-driven ETFs imply near-term upside for AAPL.
+2025-08-20,0,1,0.58,"Positive AI/robotics initiatives imply near-term catalysts for AAPL, supporting a higher close."
+2025-08-21,1,0,0.58,Cautious macro environment ahead of Powell's Jackson Hole speech and recent tech-sector weakness with rotation toward other sectors suggest AAPL could close lower.
+2025-08-22,0,1,0.58,AI integration news with Gemini to enhance Siri is bullish for Apple in the near term despite broader tech headwinds.
+2025-08-25,1,1,0.6,Market-wide rally and potential Fed-induced melt-up create a favorable setup for tech stocks like AAPL.
+2025-08-26,1,1,0.6,Tech-positive sentiment from potential Nasdaq strength and Alphabet's growth prospects supports a higher AAPL close tomorrow.
+2025-08-27,1,0,0.42,"Muted anticipation around the iPhone event despite potential AI features, coupled with broader near-term volatility from Nvidia earnings and macro signals like a steepening yield curve, could weigh on AAPL."
+2025-08-28,0,0,0.55,"Apple is portrayed as lagging in AI relative to peers with no clear near-term positive catalysts, suggesting modest downside sentiment for tomorrow."
+2025-08-29,0,1,0.58,"Berkshire’s Apple stake reduction is offset by strong services growth and AI integration potential, supporting a higher close amid mixed market cues."
+2025-09-02,1,1,0.62,"AI-driven growth potential, record revenue and buybacks support a bullish outlook, outweighing regulatory headwinds and Berkshire's Apple stake reduction."
+2025-09-03,1,1,0.66,Antitrust ruling allowing Google to continue paying partners and other tech-rebound momentum provide a bullish backdrop for AAPL despite some AI/legal headlines.
+2025-09-04,0,1,0.63,"Bullish market tone and Citadel boosting Apple exposure, along with strong AI/tech demand around Apple, support upside for AAPL."
+2025-09-05,0,0,0.58,"Key signal is Buffett reducing his Apple stake, which could weigh on sentiment despite fundamentals."
+2025-09-08,0,0,0.54,"Despite some bullish macro signals like potential Fed rate cuts and resilient consumer spending, warnings of overvaluation, possible market tightening from weak labor data, and looming inflation data create downside risk for AAPL."
+2025-09-09,0,1,0.62,"Macro signals of potential Fed rate cuts and modest market recovery, along with weaker jobs data, create a supportive environment for equities like AAPL."
+2025-09-10,1,1,0.65,"Fed easing expectations and AI-driven demand signals create a bullish setup for AAPL, outweighing the slower buyback pace."
+2025-09-11,1,1,0.62,"Positive market mood from tech/AI momentum and Apple-Alibaba AI feature collaboration, outweighing AI leadership concerns."
+2025-09-12,1,0,0.58,The iPhone launch disappointment weighs on Apple despite positive regulatory and macro signals.
+2025-09-15,1,0,0.56,"Apple's new iPhone lineup is described as lacking significant innovation, which could dampen near-term sentiment and modestly pressure the stock tomorrow."
+2025-09-16,1,1,0.72,Positive iPhone Air demand signals and broad market optimism on potential Fed rate cuts suggest a bullish move for AAPL.
+2025-09-17,0,0,0.57,Cautious mood and potential volatility ahead of the Fed decision weigh on Apple in the near term despite broader AI strength.
+2025-09-18,1,1,0.68,Upcoming iPhone 17 launch with strong preorder demand and Apple Intelligence integration provide bullish catalysts for AAPL.
+2025-09-19,1,1,0.25,"Low pre-OPEX volatility implies limited intraday movement, but the note of potential market shifts after expiration introduces a slight upside bias."
+2025-09-22,0,1,0.6,"The broader market is buoyed by a rate cut and strong earnings sentiment, creating a favorable backdrop for Apple to move higher."
+2025-09-23,0,0,0.34,The article focuses on undervalued under-$10 stocks and does not present a bullish catalyst for AAPL.
+2025-09-24,1,0,0.25,"Given the absence of Apple-specific catalysts and broader macro uncertainty, the next-day move is likely lower."
+2025-09-25,0,1,0.65,"Tech rally and rising wearable device demand, coupled with Intel seeking partnerships involving Apple and positive AI sentiment, imply near-term upside for AAPL."
+2025-09-26,0,1,0.65,"Positive indicators such as strong iPhone 17 demand signals, a high-profile Tokyo store reopening, and AI/tech demand trends support near-term upside for AAPL."
+2025-09-29,1,1,0.58,"Bullish due to Berkshire's continued Apple exposure and positive tech earnings expectations, likely offsetting near-term volatility signals."
+2025-09-30,1,1,0.6,Positive catalysts from strong iPhone 17 sales and rising AI features are likely to buoy Apple shares despite broader market caution.
+2025-10-01,1,1,0.58,"AI excitement and tech mega-cap strength imply a higher close for AAPL, supported by tech-focused flows, though overvaluation concerns could cap gains."
+2025-10-02,1,1,0.65,Tech strength and rate-cut optimism from today's news support a higher close for AAPL.
+2025-10-03,0,0,0.65,Nasdaq-100 pullback risk and broader tech market headwinds highlighted in today's news imply AAPL is more likely to close lower.
+2025-10-06,0,1,0.62,Positive AI-driven momentum among major tech names and bullish Magnificent Seven sentiment suggest modest upside for AAPL.
+2025-10-07,1,0,0.42,Market-wide uncertainty from Berkshire's leadership transition and the looming earnings-season volatility dispersion imply modest downside risk for AAPL in the next session.
+2025-10-08,0,0,0.56,"Despite some optimism for positive Q4 results, Apple faces slowing revenue growth and high valuation, signaling downside risk for the stock."
+2025-10-09,0,1,0.62,Overall macro optimism and sector drivers from AI semiconductors and smart-home demand suggest modest upside bias for AAPL tomorrow.
+2025-10-10,1,0,0.6,"Tariff-fueled risk-off pressure and tech underperformance today, with no AAPL-specific catalysts in the news, suggest a near-term move lower."
+2025-10-13,1,1,0.65,Positive premarket tech leadership and expectations of rate cuts support near-term gains for AAPL.
+2025-10-14,1,1,0.6,"AI-driven momentum in big tech and recent AI product announcements create a modest positive backdrop for Apple, despite potential U.S.-China trade tensions."
+2025-10-15,0,0,0.62,"Buffett trimmed his Apple stake citing high valuations, which could exert near-term downward pressure on AAPL."
+2025-10-16,1,1,0.62,AI-driven market optimism and Magnificent Seven leadership support tech names like AAPL despite some unrelated negative headlines.
+2025-10-17,1,1,0.58,"Broadcom's AI accelerator chip strategy suggests stronger AI hardware demand that could benefit tech peers like Apple, and higher top-tax thresholds may boost investor sentiment, supporting a higher close."
+2025-10-20,1,1,0.75,"AAPL is buoyed by a Buy upgrade with a higher price target and strong iPhone sales, signaling near-term upside catalysts."
+2025-10-21,0,0,0.58,Regulatory headwinds from a new antitrust lawsuit in China create near-term downside pressure despite strong iPhone 17 demand.
+2025-10-22,1,1,0.6,"Strong iPhone 17 demand and higher production allocation suggest upside revenue ahead of Q4, partially offsetting EU antitrust concerns."
+2025-10-23,1,1,0.6,"Early iPhone demand signals are positive for Apple, suggesting a modest upward bias despite broader tech-sector rotation pressures."
+2025-10-24,1,1,0.65,"Positive catalysts from iPhone 17 early sales and an analyst upgrade with a higher price target are likely to push AAPL higher, despite concerns about AI strategy."
+2025-10-27,1,1,0.65,"Apple is named as a promising tech stock in a broader bullish market narrative and a potential macro meltup, which supports a higher close for AAPL tomorrow."
+2025-10-28,1,1,0.65,Investor update and early iPhone 17 demand signals positive momentum for AAPL despite tariff uncertainties.
+2025-10-29,1,0,0.55,Nvidia-led rally and market concentration with mixed breadth ahead of the Fed decision suggest Apple may underperform the AI-driven move and close slightly lower.
+2025-10-30,0,1,0.65,"Positive earnings expectations, strong iPhone 17 demand, and AI-growth outlook support upside for AAPL despite mixed broad market signals."
+2025-10-31,0,1,0.72,Apple's strong Q4 results with record iPhone and Services sales and optimistic AI/product-launch outlook support near-term upside amid positive market momentum.
+2025-11-03,1,0,0.62,"Negative sentiment from potential 2026 headwinds—regulatory pressures, AI integration concerns, and China manufacturing risks—suggest near-term downside pressure for AAPL."
+2025-11-04,1,1,0.65,Momentum from strong iPhone 17 sales and 10-12% expected Q1 2026 growth support a higher close despite Buffett reducing Apple stakes.
+2025-11-05,0,1,0.72,"Strong Q4 results with 8% revenue growth, solid iPhone 17 demand, expectations of double-digit iPhone sales growth, and AI/cloud momentum plus Berkshire's large Apple stake suggest near-term upside for AAPL."
+2025-11-06,0,0,0.58,"Macro weakness and cautious market sentiment toward tech weigh on AAPL, outweighing the potential benefit from Apple’s prudent AI stance."
+2025-11-07,1,0,0.6,"With broad tech weakness and a cautionary macro backdrop, AAPL is likely to close lower tomorrow."
+2025-11-10,1,1,0.65,"Positive broader market sentiment and expectations of a S&P rally support tech stocks like AAPL, suggesting a higher close."
+2025-11-11,0,1,0.62,AI-driven tech optimism and positive coverage of Apple in industry news suggest upside for AAPL ahead of tomorrow's session.
+2025-11-12,0,1,0.12,"The news is ETF-focused and does not provide AAPL-specific catalysts, so any next-day move is largely uncertain and given the lack of direct signal, confidence is low."
+2025-11-13,0,0,0.6,Investors rotating from tech into traditional sectors amid record DJIA highs suggests downside pressure for AAPL.
+2025-11-14,0,1,0.65,Positive sentiment from an investor buying Apple and a favorable semiconductors backdrop driven by TSMC's expansion and advanced node tech suggest upside for AAPL.
+2025-11-17,0,1,0.66,"Peter Thiel shifting investment toward Apple and Berkshire Hathaway's AI-focused exposure, along with AI-related partnerships, support near-term upside."
+2025-11-18,1,0,0.58,Berkshire's net selling of Apple shares and broader rate-cut uncertainty suggest near-term downside pressure for AAPL.
+2025-11-19,0,0,0.62,"Berkshire's substantial reduction of Apple shares citing stagnation, combined with AI-led rotation and underperformance of traditional quality names, suggests near-term downside pressure for AAPL."
+2025-11-20,1,0,0.5,Mixed headlines with negative Netflix-on-Apple sentiment and AI-oriented bets on Alphabet/Nvidia suggest downside pressure for AAPL.
+2025-11-21,1,1,0.6,AI/tech demand positives and favorable semiconductor/AI infrastructure news imply modest upside for AAPL.
+2025-11-24,1,1,0.62,"AI-driven growth and ETF optimism for tech outweigh the near-term rotation into healthcare and staples, supporting AAPL."
+2025-11-25,1,0,0.6,"Tech optimism from Nvidia and strong consumer tech demand signals may boost equities, but ongoing liquidity concerns and Treasury settlement pressures likely weigh on AAPL, pointing to a move lower."
+2025-11-26,1,1,0.58,Apple's deal with MP Materials for U.S.-made magnets strengthens its supply chain and aligns with growing consumer electronics demand.
+2025-11-28,1,1,0.62,"Market optimism and Apple’s prominence in long-term growth themes, despite a potential regulatory lawsuit, suggest a modestly higher close tomorrow."
+2025-12-01,1,1,0.6,Berkshire Hathaway’s large Apple stake and tech leadership highlighted by XLK’s outperformance support upside bias for AAPL in the near term.
+2025-12-02,0,1,0.62,Positive supply-chain diversification for Apple and potential macro tailwinds (rate cuts and seasonal effects) point to higher tomorrow.
+2025-12-03,0,1,0.6,"Macro optimism and expectations of a December rate cut support a market bid, with AI concerns in tech unlikely to fully offset upside for AAPL."
+2025-12-04,0,1,0.7,"Apple has broken out to multi-month highs with strong services and AI momentum, supported by favorable macro sentiment."
+2025-12-05,0,1,0.65,"Apple potentially benefits from MP Materials' supply agreement and a favorable macro backdrop with expected rate cuts, supporting a higher close tomorrow."
+2025-12-08,0,1,0.65,"Positive sentiment from Wedbush boosting Apple's price target to $350 and strong iPhone sales in China, plus ongoing AI momentum, suggest a higher close tomorrow."
+2025-12-09,1,1,0.62,"Apple is highlighted as a stock to watch with AI investments and growth opportunities, implying potential near-term upside."
+2025-12-10,0,1,0.62,"Positive tech/growth sentiment and AI megacap exposure via Roundhill Magnificent Seven, plus diversification via QQQ, supports a higher close for AAPL despite overvaluation concerns."
+2025-12-11,1,1,0.6,Tech/AI-driven growth sentiment in the day's news supports upside for Apple.
+2025-12-12,0,0,0.6,"Berkshire Hathaway is reducing its Apple stake, signaling a shift away from AAPL and potentially pressuring the stock."
+2025-12-15,1,1,0.6,Tech/AI optimism and Apple's exposure in an AI-focused ETF amid broad market enthusiasm suggest a modest positive bias for AAPL tomorrow.
+2025-12-16,0,1,0.25,"There are no Apple-specific catalysts in the news, and the piece emphasizes broad market ETFs, making the near-term Apple move uncertain."
+2025-12-17,1,0,0.6,"Berkshire Hathaway reduced its Apple stake and took a new position in Alphabet in Q3, signaling a shift away from AAPL and contributing to near-term downside sentiment amid mixed market signals."
+2025-12-18,1,1,0.65,AI-driven demand and Berkshire Hathaway's large Apple stake create supportive sentiment for AAPL's near-term move.
+2025-12-19,0,1,0.56,Broader tech/AI optimism from Nokia's AI-powered strategy may lift sentiment for large-cap tech names like AAPL.
+2025-12-22,1,1,0.6,Positive indicators from Berkshire's continued large stake and improving Apple fundamentals imply near-term upside.
+2025-12-23,1,1,0.62,AI momentum and Apple–Alphabet collaboration alongside continued AI-driven revenue growth suggest AAPL may close higher.
+2025-12-24,0,1,0.55,"Apple CEO Tim Cook's notable Nike insider purchase signals leadership confidence in consumer brands, potentially boosting market sentiment and lifting AAPL next day."
+2025-12-26,1,0,0.42,"Tech sentiment is mixed: Yardeni downgrades the Magnificent Seven, which could pressure AAPL, offset by Dan Ives' bullish 2026 outlook."
+2025-12-29,0,1,0.65,"The article portrays Apple as strong despite being an AI latecomer and highlights it as a Berkshire Hathaway jewel, supporting bullish sentiment for AAPL."
+2025-12-30,0,1,0.54,"The article suggests a shift toward earnings-driven growth with Apple remaining a top holding, implying modest upside pressure for AAPL."
+2025-12-31,0,1,0.68,"Bullish analyst ratings for Apple, plus AI investment and buybacks supporting earnings and a rebound narrative for 2026, suggest a higher open."
+2026-01-02,0,1,0.63,"Apple is portrayed as a safer tech play with anticipated 10-12% revenue growth in Q1 2026 and strong margins, against AI-fearful sentiment and broad tech demand, implying a near-term upside bias."
+2026-01-05,0,1,0.62,"Apple's iPhone 17 is driving strong demand and management guides 10-12% revenue growth for the upcoming quarter, reinforcing a bullish near-term setup despite broader Magnificent Seven concentration concerns."
+2026-01-06,0,1,0.6,"The article presents a generally positive backdrop for Apple, with wearables growth, AI exposure through ETFs, and expanded trading avenues that could contribute to modest upside pressure for AAPL."
+2026-01-07,0,1,0.6,"Nasdaq-100 tech leadership and broad market strength today, with Alphabet up and Apple flat, suggest potential upside momentum for AAPL tomorrow."
+2026-01-08,1,1,0.65,"Bullish Apple guidance for double-digit revenue growth in FY2026, expected iPhone growth and high-margin services, plus AI feature momentum, point to a higher move tomorrow."
+2026-01-09,1,1,0.62,Positive tech/AI sentiment and broad investor appetite for mega-cap AI plays likely to push AAPL higher tomorrow.
+2026-01-12,1,1,0.68,"Positive earnings guidance, leadership gains, and AI integration news with Gemini bolster sentiment and support a higher next-day move."
+2026-01-13,0,1,0.72,"Apple's record services growth, high gross margins, and expected acceleration from Apple Intelligence point to positive momentum for AAPL in the near term."
+2026-01-14,0,1,0.65,"The Apple-Google collaboration to base Foundation Models on Gemini strengthens Apple's AI moat and should boost sentiment, supporting near-term upside for AAPL."
+2026-01-15,0,1,0.62,"AI-driven demand from TSMC and ongoing licensing activity around Apple, plus sector rotation that can favor mega-cap tech, point to a higher AAPL close tomorrow."
+2026-01-16,0,0,0.58,"TSMC's overlooked risks, capacity constraints, and slower 2nm ramp heighten supply-chain concerns for Apple, potentially pressuring near-term AAPL performance."
+2026-01-20,1,1,0.66,"AI-driven catalysts and anticipated Apple-Gemini integration, along with favorable AI spending trends, suggest near-term upside for AAPL."
+2026-01-21,1,1,0.6,"Dan Niles endorses Apple for AI-enabled Siri and foldable iPhone upgrade cycles, suggesting positive sentiment that could push AAPL higher."
+2026-01-22,0,1,0.55,"The broader market rebound and AI-stock momentum provide a supportive backdrop for AAPL, with potential AI-driven upside and investor optimism offsetting TSMC-related shifts and price-pressure concerns."
+2026-01-23,1,1,0.6,RSI at 18 indicates extreme oversold conditions and earnings due next week could trigger a short-term rebound in AAPL.
+2026-01-26,1,0,0.55,Tariff-related macro headwinds and market caution ahead of Apple’s earnings guidance suggest AAPL could close lower.
+2026-01-27,0,1,0.72,"Positive catalysts from stronger-than-expected product and services momentum, an Alphabet partnership enhancing AI-enabled features, and upbeat near-term guidance ahead of earnings support a higher close."
+2026-01-28,1,1,0.6,"Apple is framed as a safer AI exposure with its Siri ecosystem, aligning with AI/5G market growth and potentially lifting the stock."
+2026-01-29,1,1,0.62,"Positive signals around iPhone 17 demand and potential AI strategy clarity, plus services growth, support a higher close despite broader tech weakness."
+2026-01-30,1,0,0.62,"Even with record results, the move was considered priced in and Friday futures were down, signaling modest near-term downside for AAPL."
+2026-02-02,0,1,0.65,Apple's record revenue and strong Asia growth with AI spending discipline and positive analyst sentiment suggest near-term upside for AAPL.
+2026-02-03,1,1,0.66,"Apple's improving iPhone upgrade cycle and fundamentals suggest further near-term upside, despite AI hype nuances."
+2026-02-04,0,0,0.6,Capital rotation away from mega-cap tech toward value and cyclical stocks could pressure Apple in the near term.
+2026-02-05,1,0,0.55,"Despite solid earnings and demand, valuation concerns and slower AI adoption relative to peers imply potential near-term downside pressure."
+2026-02-06,0,1,0.56,"Tech/AI and mobility themes discussed in the news provide a modest upside bias for large-cap tech like AAPL, even as broad-market diversification persists."
+2026-02-09,0,1,0.58,"Broad market breadth improvement and AI infrastructure spending optimism suggest upside for tech stocks, including AAPL, even without a company-specific catalyst."
+2026-02-10,1,1,0.65,"Apple’s conservative AI strategy, strong earnings growth prospects, and massive device base underpin near-term upside despite occasional concerns about AI leadership."
+2026-02-11,0,1,0.63,"Positives from an elevated price target tied to Apple Intelligence and Siri 2.0, plus AI-driven demand expectations, outweigh margin headwinds from a memory-shortage environment and higher component costs."
+2026-02-12,0,0,0.62,Apple is likely to close lower as a tech-sector selloff and company-specific concerns about margins and rising hardware costs keep downside pressure.
+2026-02-13,1,0,0.65,"Given broad market weakness with the S&P 500 and Nasdaq down notably and no Apple-specific upside catalysts in the news, AAPL is more likely to close LOWER tomorrow."
+2026-02-17,1,0,0.56,"Despite an upcoming Apple event, AAPL faces near-term downside risk from last Friday's drop and mixed tech/macro signals, suggesting a likely move lower."
+2026-02-18,0,1,0.65,"Positive catalysts from March 4 product launches, strong Q1-2026 earnings signals, and renewed analyst optimism outweigh near-term regulatory concerns and recent pullbacks."
+2026-02-19,1,0,0.42,"Berkshire Hathaway reduced its Apple stake in Q4 2025 and signaled a shift toward other tech positions, suggesting potential near-term downside pressure on AAPL."
+2026-02-20,1,0,0.6,A rotation out of large-cap tech stocks like Apple into an undervalued ETF by Mesirow suggests near-term selling pressure for AAPL.
+2026-02-23,1,0,0.62,Tariff uncertainty and renewed supply-chain risk from global tariffs could pressure near-term Apple sentiment and stock price.
+2026-02-24,1,0,0.58,"AI competition risks and Siri upgrade delays weigh on sentiment, outweighing domestic manufacturing moves and Buffett mentions."
+2026-02-25,0,0,0.45,"Negative sentiment from Thiel Macro's complete Apple position could create short-term selling pressure, nudging AAPL lower into tomorrow's close."
+2026-02-26,0,0,0.62,"Buffett's ongoing Apple sales and broad insider selling among large tech names, along with Apple's premium valuation and slower growth, suggest negative near-term sentiment for AAPL."
+2026-02-27,1,0,0.63,"Berkshire's new portfolio manager may significantly reduce Apple exposure as Apple may no longer be viewed as a bargain, implying potential near-term selling pressure."
+2026-03-02,0,0,0.6,"Berkshire Hathaway trimmed roughly 4.3% of its Apple stake, signaling reduced demand from a major holder and potentially creating near-term selling pressure on AAPL."
+2026-03-03,0,1,0.58,Positive AI-enabled product upgrades and modest revenue lift expectations offset the initial negative reaction and Berkshire moves.
+2026-03-04,0,1,0.6,"Positive pricing strategy, AI-enabled growth and services, a large installed base, and supportive institutional sentiment from Berkshire outweigh valuation and potential stake-reduction risks."
+2026-03-05,0,1,0.65,"Affordable Mac Neo and China subsidy-driven demand for AI-enabled devices could bolster Apple's ecosystem and services growth, suggesting a higher close tomorrow."
+2026-03-06,1,1,0.45,"The Socket Mobile iPhone 17e compatibility news could boost Apple ecosystem and enterprise accessory adoption, offering a positive micro-signal for AAPL."
+2026-03-09,1,0,0.6,"Buffett's endorsement and buybacks support sentiment, but signs of slowing device sales and a high valuation, plus geopolitical-linked tech weakness, suggest modest near-term downside risk for AAPL."
+2026-03-10,0,1,0.68,Positive sentiment from the MacBook Neo launch and AI-driven demand potentially expanding Apple’s addressable market supports a higher close.
+2026-03-11,0,0,0.6,Bearish tone from an analysis claiming Apple could lose market value to Microsoft and Alphabet amid AI competition outweighs modest positive Apple ecosystem news.
+2026-03-12,0,1,0.72,"Strong Q1 results, robust iPhone and China demand, expanding margins, AI hardware interest, and Buffett-related optimism support a higher close tomorrow."
+2026-03-13,1,1,0.62,"Positive Apple-focused news (services growth, product momentum, and investor optimism) suggests a bullish move for AAPL tomorrow."
+2026-03-16,1,1,0.56,"Apple's launch of budget-friendly devices to gain market share in a contracting smartphone and PC market, supported by a strong balance sheet and the potential to offset margins with premium lines, provides a near-term positive catalyst."
+2026-03-17,0,1,0.63,AI supply-chain momentum from Samsung–Nvidia and tech-sector optimism (including Alphabet’s buyback-driven earnings improvements) point to a higher close for AAPL.
+2026-03-18,0,1,0.6,"Ad-tech weakness from The Trade Desk is offset by AI/semiconductor strength benefiting Apple suppliers, suggesting a modest upside bias for AAPL."
+2026-03-19,0,0,0.62,"Apple is singled out as losing ground as the Magnificent Seven diverge, suggesting near-term downside pressure."
+2026-03-20,1,0,0.55,"The news frames Apple as richly valued with limited upside, which could weigh on sentiment and push shares lower tomorrow."
+2026-03-23,1,1,0.72,"AI-focused bullish sentiment and Apple being named a top AI play amid a broad market rebound, with no company-specific negatives."
+2026-03-24,1,0,0.55,"Roku's Apple TV integration could be positive for Apple, but prevailing tech-sector weakness and macro uncertainty likely outweigh it, signaling a modest downside for AAPL tomorrow."
+2026-03-25,1,1,0.42,"AI sector news is mixed with no Apple-specific catalyst, but mega-cap tech exposure and AI optimism could support Apple alongside broader risk-on sentiment."
+2026-03-26,0,1,0.6,"Berkshire Hathaway's continuing buybacks and Apple’s prominence in major portfolios point to positive sentiment for large-cap tech stocks, nudging AAPL higher."
+2026-03-27,0,1,0.6,"Tech names within the Magnificent Seven are viewed as cheaper after recent corrections with AI-driven demand supporting earnings, suggesting a higher close for AAPL."
+2026-03-30,1,0,0.63,"Valuation appears rich at a 31x P/E, combined with iPhone saturation, China share erosion, and App Store regulatory risk, suggesting downside pressure vs peers."
+2026-03-31,1,1,0.65,"Tech-led rally and Berkshire's continued confidence in Apple, plus Apple's AI initiatives and strong earnings trajectory."
+2026-04-01,1,1,0.62,"Positive near-term catalysts from a potential W-bottom rebound and substantial upside implied by analysts' price target, in a broader risk-on backdrop despite macro headwinds."
+2026-04-02,1,1,0.65,"Apple's shift to integrating third-party AI (ChatGPT/Google Gemini) and monetizing via apps is viewed positively, supporting upside despite broader market uncertainty."
+2026-04-06,0,0,0.57,Buffett's caution about the market signals dampens risk appetite for top tech names like Apple despite AI optimism.
+2026-04-07,1,1,0.62,"Despite a recent pullback and mixed headlines, Apple’s solid revenue growth, expanding services, and Buffett’s confidence suggest a near-term upside bias."
+2026-04-08,1,0,0.62,"Apple declined on foldable iPhone delay concerns, which could weigh on the stock despite broader tech strength and rising market optimism."
+2026-04-09,0,1,0.62,"Although Apple faced a 5% drop on durability concerns for foldable iPhones, its record Services revenue, AI-driven Mac Mini demand, a budget MacBook Neo, and a bullish market backdrop plus a historical tendency for billionaire-led divergences to precede bounces suggest a near-term rebound."
+2026-04-10,0,1,0.65,Tech-sector optimism and AI/chip demand catalysts highlighted in the news are likely to buoy AAPL in the near term.
+2026-04-13,0,0,0.52,"Apple is viewed as richly valued with stagnant growth relative to peers like Nvidia, Microsoft, and TSMC, and sector rotation away from seemingly lagging Apple could pressure the stock tomorrow."
+2026-04-14,1,1,0.62,"Berkshire Hathaway adding Apple to its indefinite holding list signals long-term confidence, which tends to push AAPL higher in the near term despite valuation concerns."
+2026-04-15,0,1,0.58,"Tech optimism and AI-driven sentiment in the news, plus Apple’s SOS dependence on Globalstar amid Amazon’s acquisition of Globalstar, create a generally supportive backdrop for AAPL."
+2026-04-16,1,0,0.58,Overbought RSI near record highs and mixed macro signals suggest a short-term pullback for tech-leaning names like AAPL.
+2026-04-17,1,1,0.65,"Apple's solid China demand and record Q1 sales create upside momentum for tomorrow's session, though ongoing margin pressures warrant caution."
+2026-04-20,0,1,0.65,"Apple's earnings momentum, strong services margins, and capital-light AI positioning support near-term upside despite high valuation and broader AI hype."
+2026-04-21,1,1,0.62,Positive reception of the Apple leadership transition and a potential WWDC-driven product/AI focus serve as a near-term catalyst despite broader rate worries.
+2026-04-22,1,1,0.65,Buffett's large Apple stake and upbeat tech earnings expectations amid a broader risk-on market support a higher close for AAPL.
+2026-04-23,0,1,0.56,Apple may close higher as the leadership transition preserves strategy toward hardware/AI while the S&P shows a bullish recovery setup.
+2026-04-24,0,1,0.58,"Investors anticipate Apple to beat estimates with favorable AI monetization guidance and continued buybacks, suggesting modest near-term upside."
+2026-04-27,1,0,0.58,"Tim Cook's stepping down introduces leadership uncertainty and potential disruption to Apple's near-term trajectory, weighing on sentiment."
+2026-04-28,0,1,0.58,"AI-sector momentum and expectations for Apple’s earnings this week suggest near-term upside, though valuation and mixed earnings risk keep the move modest."
