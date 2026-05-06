@@ -1,0 +1,2629 @@
+date,report_text
+2024-07-30,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's Q3 outlook improves with PC market and Services growth; TSMC and Arm benefit from AI-driven demand."
+2024-07-31,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AMD beat Q2 with upbeat Q3 guidance; Apple/Alphabet move away from Nvidia, Nvidia dip amid long-term positives."
+2024-08-01,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple gains 15.5% YTD on AI venture and China discounts; Nasdaq eyes breakout ahead of Apple and Amazon earnings."
+2024-08-02,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple beat Q3 revenue and earnings; iPhone and China declines dampen; Services up; outlook mixed, market cautious."
+2024-08-05,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple faces mixed signals as Berkshire trims its stake amid growth concerns; macro sell-off and AI valuations weigh prospects."
+2024-08-06,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces headwinds from iPhone competition and weak product launches, while AI and Services growth offer upside amid rate-cut hopes."
+2024-08-07,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI leadership, mixed Apple signals, and rising Meta and Duolingo trends create a cautiously optimistic tech outlook."
+2024-08-08,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Buffett sold about $90B of Apple shares; mixed tech outlook with AI-driven gains for peers and stable earnings."
+2024-08-09,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple named a Buffett buy amid AI features and rising enterprise-device demand, prominent in a tech ETF's top holdings."
+2024-08-12,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI potential boosts Apple among top AI beneficiaries, but Berkshire trimmed Apple shares amid broader tech demand and QQQ inflows."
+2024-08-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple shines as AI pick amid market volatility; Nvidia faces GPU delays, while Meta and Berkshire rally on long-term growth."
+2024-08-14,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Mixed outlook: mild downward price momentum for split-announced stocks; DoJ antitrust breakup risk; chip and cloud music growth support positives."
+2024-08-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple named among top buys for 6G wireless tech by analysts, supporting mild upward momentum and bullish sentiment."
+2024-08-16,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Berkshire sold about half its Apple stake (~$82B), signaling profit-taking and potential further trims amid leadership concerns."
+2024-08-19,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's on-device AI platform and ETF exposure position it for mild upward momentum despite Berkshire trims."
+2024-08-20,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Buffett's Berkshire cuts Apple stake, keeps cash; analysts weigh Chubb vs Visa while noting AI stocks; FAANG+ ML course launched."
+2024-08-21,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Berkshire trimmed Apple stake yet maintains optimistic view; Coca-Cola remains strong long-term with profitability and dividend growth."
+2024-08-22,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Citadel doubles Apple stake amid AI-enabled iPhone upgrade cycle; Berkshire sells stocks yet buys back shares, AmEx gains."
+2024-08-23,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Berkshire cuts Apple stake by 49% but Apple remains largest; mixed signals include potential profit-taking and ecosystem growth."
+2024-08-26,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Investors are rotating into Apple on services growth and AI tools, despite iPhone stagnation and TV+ spend."
+2024-08-27,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: bullish
+SUMMARY: Long-term investing via SPY and BRK outperforms over time; growth slows for BRK; dividend ETFs offer different risk profiles."
+2024-08-28,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains in Berkshire's portfolio amid AI-driven growth; macro tech demand, dividend strategies support a bullish outlook."
+2024-08-29,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple benefits from upcoming generative AI features boosting iPhone demand despite Berkshire stake sale amid mixed tech market."
+2024-08-30,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Nvidia valuation concerns; Berkshire sells Apple stake; market broadens beyond Magnificent 7; Apple shows long-term growth."
+2024-09-03,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Huawei to launch disruptive product alongside iPhone 16; Apple faces China competition, AI-related market dynamics, and evolving chip supply risks."
+2024-09-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Mixed views on iPhone 16 launch, AI expansion and Berkshire capital strategy imply modest upside for Apple."
+2024-09-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple's long-term prospects remain strong in hardware and services, but Berkshire's sales and tax concerns weigh near-term sentiment"
+2024-09-06,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains a compelling long term investment; Berkshire's large sale contrasts with billionaire buyers and AI driven growth supporting upside."
+2024-09-09,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple shares slid after iPhone 16 launch but may rebound in 30-60 days due to AI-driven upgrades."
+2024-09-10,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: iPhone 16 Wi-Fi 7 upgrade boosts Broadcom; Apple AI integration and services growth amid macro caution"
+2024-09-11,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Macro data roils markets as Nvidia strength and AmEx potential offset a mixed equity backdrop."
+2024-09-12,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: OTC Hearing Aid Feature approved for AirPods Pro; iPhone 16 AI features viewed positively but valuation remains a concern."
+2024-09-13,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple launches iPhone lineup and AI features; stock overpriced with flat performance amid mixed valuation signals."
+2024-09-16,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple's iPhone 16 demand weakens, dragging tech; Berkshire views Apple as a long-term staple amid endorsing S&P 500 index funds."
+2024-09-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets head mildly upward on retail data and rate-cut hopes; Apple could gain from iPhone 16 AI upgrade."
+2024-09-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Fed policy risks weigh on market while Apple benefits from AI features, long-term gains, and continued Berkshire stake."
+2024-09-19,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets rally to record highs after a 50bp Fed cut, led by Apple and peers, with Broadcom eyeing $1 trillion."
+2024-09-20,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: AI demand boosts TSMC; Apple iPhone 16 preorders down 13%; Skechers China weakness; mixed near-term outlook."
+2024-09-23,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Macro tech sentiment mixed: AI chip growth and Tesla optimism offset by Apple share sale and mega-cap underperformance."
+2024-09-24,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple's growth slows as device market matures, services sustain revenue, AI and iPhone 16 remain positives, yet valuation bears caution."
+2024-09-25,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Buffett cut Berkshire's Apple stake amid valuation concerns; macro easing and AR/AI growth temper Apple outlook."
+2024-09-26,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: none
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI features boost Apple’s growth; Berkshire’s buybacks and Cohen’s Apple move signal a strong long-term bullish outlook."
+2024-09-27,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: bullish
+SUMMARY: Apple delivered 31% annual return supported by margins and buybacks; Berkshire remains wealth creator via cash flow long-term."
+2024-09-30,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple eyes upside from iPhone 16 launch and AI partnerships amid mixed views and strong AI-driven growth expectations."
+2024-10-01,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Analyst warns of a 3M iPhone 16 unit cut amid weak demand and macro pressure, signaling a slower product cycle."
+2024-10-02,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple faces weaker iPhone 16 demand with early-week YoY declines amid broader market downturn and bearish signals."
+2024-10-03,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces mixed signals: potential solid iPhone 16 demand, crowded tech stocks risk, Buffett trims stake, long-term tech upside."
+2024-10-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Stronger jobs data boosts rate-hike expectations while AI/tech stocks see aggressive buying and positive money flows."
+2024-10-07,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analysts lift S&P outlook and name Apple a buy; Berkshire trims Apple amid high valuations; market hits new highs."
+2024-10-08,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple faces potential policy-driven headwinds and rising competition from Nvidia amid a cautious, volatile market."
+2024-10-09,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Teens show upgrade potential; billionaire selling amid high valuation; Apple moat solid; earnings season hints slower growth and higher volatility."
+2024-10-10,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple trades sideways since July; strong fundamentals and analyst optimism support buying, but iPhone sales concerns temper enthusiasm."
+2024-10-11,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Product launch excitement for iPhone 16 contrasts with valuation headwinds; Berkshire strong gains; healthcare mobility growth; mixed CTV ad data."
+2024-10-14,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple trades flat amid iPhone concerns; macro 3nm demand growth and Berkshire caution temper near-term sentiment."
+2024-10-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Analysts favor Nvidia and Meta among Magnificent Seven; SoundHound AI eyes growth in voice tech against Apple, Alphabet, Amazon."
+2024-10-16,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI-led growth fuels cautious optimism: Amazon and Salesforce positive, Buffett buys Sirius XM, ETFs favored for steady returns."
+2024-10-17,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven demand supports Apple amid regulatory risks and lofty valuations, with ETF exposure and Citadel's AI-heavy stock bets reinforcing upside."
+2024-10-18,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets rally on strong earnings and AI demand; Apple and peers poised for gains, Buffett buys OXY, Coinbase growth highlighted."
+2024-10-21,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple is now the world's most valuable company, boosting AI potential and services growth."
+2024-10-22,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Market cautious yet positive on AI; Apple remains Buffett's long-term favorite alongside broad ETF strategies."
+2024-10-23,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple faces valuation concerns amid bearish analyst outlook and mixed signals from map ecosystem growth and chip supply expansion."
+2024-10-24,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Morgan Stanley maintains buy on Apple, TSMC demand supports iPhone 16, market optimism persists near $4 trillion cap rally"
+2024-10-25,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple launches Apple Intelligence generative AI platform, aiming to monetize via subscriptions and boost services amid rising AI focus."
+2024-10-28,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple faces macro yield risk while potential AI-driven growth and Buffett’s ongoing stake shape its near-term outlook."
+2024-10-29,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Buffett sold ~$80B Apple shares in Q2 2024 and parked in Treasuries; mixed tech-ETF and MSFT outlook."
+2024-10-30,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Alphabet named a screaming buy among trillion-dollar firms due to market share, cloud growth, and valuation."
+2024-10-31,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple earnings awaited amid market risk-off; demand for iPhone 16 and AI push face limited upside, prompting caution."
+2024-11-01,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple shows strong long-term gains amid mixed sector signals, macro risks, Broadcom positives, and buyback scrutiny."
+2024-11-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple benefits from AI strategy, iOS enhancements, and Foxconn expansion, amid macro volatility."
+2024-11-05,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Mixed signals on Apple from product launches and satellite investment versus Berkshire risk-off and Nasdaq caution."
+2024-11-06,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Berkshire trimmed Apple holdings amid overvaluation concerns; Apple Q4 strong but China and Google-deal uncertainty keep investors cautious."
+2024-11-07,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple faces revenue stagnation concerns and Berkshire's Apple sale amid cautious market commentary favoring rivals."
+2024-11-08,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple faces slowing earnings with high valuations despite AI-driven upside and Nvidia competition."
+2024-11-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: Apple’s AI-driven iPhone enhancements buoy optimism, though Berkshire Hathaway trimmed Apple holdings amid market peak concerns."
+2024-11-12,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: none
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Buffett sells AAPL while Englander boosts stake; Apple seen less compelling versus Amazon amid mixed analyst signals."
+2024-11-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analyst foresees Nvidia at $10 trillion by 2030, while Apple features in AI-related stock purchases amid cautious markets."
+2024-11-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro growth and AI demand support Apple; legal risk and Buffett divestitures create mixed, modest upward momentum."
+2024-11-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple eyeing $4T market cap within 12-18 months on iPhone 16 and AI, amid mixed macro and AI-driven optimism."
+2024-11-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI and collaboration trends support tech demand; Berkshire trimmed Apple while growth ETFs favor equities."
+2024-11-19,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Macro optimism for S&P 6,500 by end-2025 persists, but Berkshire trims Apple amid Nvidia valuation risk."
+2024-11-20,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: low
+ANALYST_TONE: bullish
+SUMMARY: Berkshire trims Apple stake; Apple's durable ecosystem and AI focus support long-term growth, while S&P 500 ETF investing is highlighted."
+2024-11-21,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: AI growth potential supports VGT while Archegos founder sentencing underscores regulatory risk."
+2024-11-22,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple lags the S&P 500 in 2024-25 amid mixed tech momentum; Google faces DOJ divestment and AI peers advance."
+2024-11-25,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Buffett sells a large Apple holding due to valuation concerns; ETF MGK remains heavily exposed to Apple alongside Nvidia."
+2024-11-26,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Buffett trims Apple significantly while maintaining American Express; Berkshire cites valuation and potential tax changes in portfolio reassessment."
+2024-11-27,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Berkshire trims Apple stake amid slower Apple innovation and rising competition from Alphabet and Amazon."
+2024-11-29,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Berkshire trimmed Apple holdings, while market-wide tech strength and risk diversification via equal-weight ETFs suggest cautious Apple exposure."
+2024-12-02,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple hits new highs amid tech rally, but Buffett trimming stake and cautious AI outlook temper enthusiasm."
+2024-12-03,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Prominent investor Terry Smith adds Apple to Fundsmith, praising services and loyal customers amid concerns about high valuation."
+2024-12-04,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Vietnam ICT market growth over 15% CAGR; TSM benefits from AI demand; Berkshire remains a cash-rich long-term buy."
+2024-12-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple growth expected in 2025-26 from AI-enabled iPhone launches, aided by Berkshire retention, amid positive tech leadership and GXO drag."
+2024-12-06,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Wearables growth and AI-driven platforms lift tech stocks alongside Roblox's bullish note and Meta's AI optimism."
+2024-12-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple is highlighted among top long-term performers with strong fundamentals, contributing to potential upside amid cautious broad market sentiment."
+2024-12-10,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven tech growth boosts S&P 500 and growth ETFs; Musk–Gates tension adds volatility."
+2024-12-11,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Broadcom-Apple AI chip partnership amid Apple’s high valuation and mixed growth signals, with supportive hardware market growth."
+2024-12-12,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple remains poised amid AI growth and strong market caps, with Broadcom earnings catalyzing upside and Berkshire liquidity a backdrop."
+2024-12-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple benefits from Berkshire's stake and AI-driven market strength, while Broadcom risk persists as Apple shifts to in-house components."
+2024-12-16,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: JPMorgan's bullish AI thesis and Buffett's Apple concentration reinforce upside from Services growth and margin gains."
+2024-12-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Broadcom's record revenue and AI chip plans bolster AI optimism; Apple is featured in a bullish long-term ETF outlook."
+2024-12-18,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple growth headwinds and flat product reception, yet analysts forecast potential to reach $4 trillion; market concentration rises."
+2024-12-19,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Buffett backs VFIAX; analysts foresee massive S&P 500 gains; Millennium trims Apple, shifts to SPY amid AI monetization concerns."
+2024-12-20,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: No Apple news available today."
+2024-12-23,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Analysts cite AI-driven growth and tech ETF exposure; Berkshire trims Apple amid broader market caution."
+2024-12-24,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven tech growth and semiconductor demand support Apple’s potential trillion-dollar trajectory and related tech investments."
+2024-12-26,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: Apple remains a key AI player amid buybacks; Berkshire Hathaway increased Apple exposure, while rivals may surpass Apple by 2025."
+2024-12-27,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: U.S. stock futures dip mildly as analysts stay upbeat on Santa Claus Rally; Berkshire growth may slow; sell five high-flyers."
+2024-12-30,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Buffett trimmed Apple amid valuation concerns; market concentration rises, while AI-chip demand hints at a mixed Apple outlook."
+2024-12-31,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple's shares sit at decade-high valuations with potential downside, while TSM benefits from AI-driven semiconductor demand."
+2025-01-02,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Netflix's live events expansion and Berkshire's shift to value stocks suggest modest upside potential for major tech equities."
+2025-01-03,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces China demand weakness and slower growth, but strong services, cash flow, AI potential, and long-term holding appeal."
+2025-01-06,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple stock climbs on AI optimism with $325 target; Bitcoin bulls cite scarcity; Berkshire concentrates five holdings."
+2025-01-07,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Dividend-growth ETF VIG offers long-term gains; Nvidia seen as undervalued and a buy into 2025 AI/data center expansion."
+2025-01-08,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Mixed outlook: Berkshire's $325B cash with planned 2025 buybacks contrasts Apple overvaluation amid macro slowdown; Bluetooth demand supports tech."
+2025-01-10,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro-driven earnings growth expectations; Apple gains from AI; Buffett buys VeriSign; investors favor Apple for 2025."
+2025-01-13,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Palantir's AI platform launch drives rally; Alphabet targets $3T; Russell 2000 bull case boosts overall market sentiment."
+2025-01-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains a compelling long-term play amid AI and services growth, while tech trends and Sirius XM headwinds temper enthusiasm."
+2025-01-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Arm eyes higher licensing, potential chip designs; rate declines lift dividend stocks; Apple risks linger; Berkshire paused buybacks."
+2025-01-16,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple benefits from AI adoption and smartwatch chip market growth, while Berkshire trimming holdings and macro headwinds temper momentum."
+2025-01-17,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Activist Starboard stake in Qorvo and AI growth at TSM boost equities, while VIG provides stable dividend growth."
+2025-01-21,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple fell 4.3% after two analysts downgraded on weak iPhone demand in China and uncertain AI-driven upgrades."
+2025-01-22,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: low
+ANALYST_TONE: bearish
+SUMMARY: Apple's high valuation faces China risks and Vision Pro underperformance, prompting caution and consideration of rivals like Microsoft and Nvidia."
+2025-01-23,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Mixed signals overall: Amazon and Nvidia bolster growth; Apple faces China/regulatory headwinds; Berkshire offers defensive strength."
+2025-01-24,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: No Apple news today."
+2025-01-27,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: DeepSeek's R1 AI release triggers massive tech selloff, wiping nearly $900B; analysts see AI progress as bullish despite losses."
+2025-01-28,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple cited as a top performer among key AI stocks amid macro headwinds and Nvidia declines."
+2025-01-29,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's Starlink partnership with SpaceX and T-Mobile, plus a massive buyback, bolsters services-driven and AI-enabled growth."
+2025-01-30,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's upcoming earnings, AI focus, and Berkshire stake lift sentiment and momentum ahead of the report."
+2025-01-31,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple remains a major Berkshire holding amid AI growth optimism and broad market macro dynamics."
+2025-02-03,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tariffs pressure tech stocks; Apple flagged overvalued; Buffett cash stance fuels caution; AI rivals threaten margins; VGT strong yet concentrated."
+2025-02-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces mixed signals: revenue growth stagnation, underwhelming new products, strong services potential, Berkshire stake, and high short interest."
+2025-02-05,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple stock drifts lower on Chinese App Store probe, though an analyst foresees double-digit gains by 2025 amid services growth."
+2025-02-06,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple features in AI stock picks and the Magnificent Seven ETF, signaling positive long-term investment sentiment."
+2025-02-07,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Analyst warns Apple under AI leadership risk with stagnant iPhone sales and premium valuation amid AI rivals' growth"
+2025-02-10,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces regulatory pressure from China and a higher AppleCare+ price, amid mixed tech-sector sentiment and AI optimism."
+2025-02-11,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Powell signals no rate cuts; markets drift lower as Intel climbs, Tesla slides, Apple resilient and viewed as better buy."
+2025-02-12,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: product launch
+EVENT_IMPACT: low
+ANALYST_TONE: bearish
+SUMMARY: Buffett's Berkshire continues selling Apple amid overvaluation; Apple faces headwinds and sluggish iPhone sales despite enterprise security product gains."
+2025-02-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Wearable payments growth hints at Apple opportunities despite device reliability limits; Buffett 13F moves and Moody's AI pivot create signals."
+2025-02-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Cirrus Logic earnings beat supports Apple suppliers amid value rotation and tech risks, signaling modest upside for Apple."
+2025-02-18,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Buffett trims Apple stake amid China AI challenges; Apple growth slows, AI upside persists, with February 19, 2025 product reveal."
+2025-02-19,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: Analysts foresee Apple facing competitive pressure as Amazon-momentum and Magnificent Seven valuations weigh on its relative value."
+2025-02-20,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains favored by Berkshire Hathaway and MTG's Apple purchases amid market overvaluation signals."
+2025-02-21,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Druckenmiller adds Apple to bets alongside Amazon, Alphabet, Nvidia, and Tesla; Berkshire sold two S&P 500 ETFs."
+2025-02-24,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple announces a $500 billion US investment plan, signaling long-term growth amid AI competition and market headwinds."
+2025-02-25,"PRICE_MOMENT: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: none
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Berkshire Hathaway reduced its Apple stake in Q4 and increased cash reserves, signaling cautious investing."
+2025-02-26,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Tech stock volatility persists amid bearish AppLovin signals; LiveWorld adds AI-savvy director; Microsoft may split; Buffett remains net seller."
+2025-02-27,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: Garmin reports strong 2024 results; Apple cited as industry leader with higher valuation."
+2025-02-28,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple faces macro headwinds from reduced Google Search revenue and shrinking China iPhone share, amid notable hedge fund selling."
+2025-03-03,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple faces headwinds and overvaluation; Buffett shifts bets; AI aims to lift iPhone sales, while rivals may surpass Apple."
+2025-03-04,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Market chatter cites Nvidia possibly surpassing Apple, while Buffett warns against Apple amid growth concerns and declining net income."
+2025-03-05,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Policy risk hits Intel; long-term bets favor VOO and MGK, Buffett-style resilience, and a new data science course."
+2025-03-06,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: Market mixed: tech growth ETFs outpace, scams involving Apple gift cards highlight consumer risk, and short-seller volatility persists."
+2025-03-07,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple's upgrade catalyst and Berkshire stake support mild upward momentum amid macro valuation concerns."
+2025-03-10,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI investments and market recoveries improve outlook, though legal issues and premium valuations pose risks for several tech names."
+2025-03-11,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Markets await February inflation data; inflation remains high, growth slows, while XPeng plans up to 100B yuan for humanoid robots."
+2025-03-12,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Macro headwinds and high valuations persist; Nvidia bargains amid Nasdaq pullback while AI growth and AR acquisitions support tech optimism."
+2025-03-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: bullish
+SUMMARY: Global Mini/MicroLED growth supports future display tech; Berkshire backs Apple, Amazon, Coca-Cola with AI-driven efficiency."
+2025-03-14,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tech sell-off creates buying opportunities in ASML and VGT, underscoring long-term AI-driven gains."
+2025-03-17,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple AI delays weigh stock; $500B spend boosts suppliers; Netflix may reach $1T by 2035; Buffett cautions market amid tariffs."
+2025-03-18,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro market selloff drives Berkshire's buy emphasis on Apple, as confidence fades and U.S. equities rotate out."
+2025-03-19,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains a top holding in growth ETFs, supporting positive long-term outlook amid mixed macro conditions."
+2025-03-20,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Alibaba rebounds 68% in 2025 with AI/cloud growth; Verizon dividend remains safe amid competitive and macro headwinds."
+2025-03-21,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Macro optimism from Goldman Sachs; Magnificent 7 capex rise supports AI/cloud growth; Apple faces heavy shorting pressures."
+2025-03-24,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Macro risks loom; Apple growth questioned by iPhone/China headwinds, while AI, cloud deals and Berkshire-driven VeriSign rally shape mixed momentum."
+2025-03-25,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Berkshire Hathaway's public equity portfolio is 47% concentrated in Apple, American Express, and Bank of America."
+2025-03-26,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: bullish
+SUMMARY: Berkshire Hathaway is viewed as a great buy due to its diverse businesses, large investment portfolio, and massive cash hoard."
+2025-03-27,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: Apple leads in the market-cap race with AI-chip plans amid cautious long-term growth expectations."
+2025-03-28,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: No news today; no notable price or event impact reported."
+2025-03-31,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple-Nvidia server deal signals ongoing AI infra investment; Nvidia remains buy; Oracle and Roku benefit from AI demand."
+2025-04-01,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Macro shifts via non-cap-weighted ETF launch and gold-led risk-off coincide with Berkshire trimming Apple."
+2025-04-02,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tariffs up to 20% spur volatility; Apple growth slows, Berkshire overweight; analysts warn AI spending and supply chains may suffer."
+2025-04-03,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tariffs triggered a tech-wide selloff, pressuring Apple as rivals gain pace and market caps, with Nasdaq plunging."
+2025-04-04,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple led a tech selloff as tariffs sparked broad market declines, with Buffett's dividend strategy also highlighted."
+2025-04-07,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets mixed on tariffs; mild upside from EU counter-tariffs, with tech exposure risk, Zelle issues, and Magnificent Seven headwinds."
+2025-04-08,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tariff escalation drives sharp market downturn; despite Apple’s favorable 21x forward P/E, macro trade tensions loom."
+2025-04-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tariff pause sparks market rally; Apple faces potential 90%+ iPhone cost rise, but bull case remains despite 23% stock drop."
+2025-04-10,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Inflation eased to 2.4% with tariff pause stirring mixed near-term market direction and volatility."
+2025-04-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Tariffs pause and anticipated rate cuts support Apple amid volatility, endorsing long-term, quality-stock investing."
+2025-04-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Tariff pause sparked a semiconductor rally and Apple rally, with cautious optimism awaiting earnings clarity."
+2025-04-15,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tariffs and a looming downturn threaten iPhone sales and profitability; stock volatile and overvalued with mixed analyst views."
+2025-04-16,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Semiconductor regulatory risk weighs on Nvidia; Berkshire gains, dividend-growth investing; rising front-end talent demand boosts tech hiring optimism."
+2025-04-17,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple-Broadcom AI-chip collaboration potential; tariffs threaten Broadcom revenue; Apple's buybacks raise valuation concerns, while Berkshire may add on fundamentals."
+2025-04-21,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple's stock dropped 20% from highs amid tariff risks and growth challenges despite temporary relief and AI growth potential."
+2025-04-22,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple faces U.S.-China tensions amid solid iPhone demand and AI-driven upgrade expectations."
+2025-04-23,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: EU fines Apple and Meta; Berkshire ramps Apple exposure via AI-driven holdings; Kinder Morgan optimistic on gas demand beyond investments."
+2025-04-24,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Analyst lowers price target amid tariff risks and AI delays; buybacks boost EPS, Berkshire stake cut signals cautious sentiment."
+2025-04-25,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple to replace Goldman Sachs as Card issuer; TSMC and Alphabet positives; market awaits tech earnings amid Buffett buybacks."
+2025-04-28,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Q1 results and AI-driven upside in semiconductors, plus value rotations and Berkshire’s cash imply modest upside amid mixed tech results."
+2025-04-29,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Markets face high volatility this week ahead of Apple earnings; Berkshire’s cash reserve and MercadoLibre growth shape broad resilience."
+2025-04-30,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets await earnings; Nvidia grows, possibly surpassing Apple; Berkshire trims bank holdings; tariffs temper outlook."
+2025-05-01,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tech earnings lift sentiment; MSFT beat and Meta rally Nasdaq near 20k, while Apple faces guidance risk amid US-China tensions."
+2025-05-02,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Buffett's Berkshire wields BYD-led gains amid market rally; Apple underperforms, 13F holdings due, cash remains $334B, earnings mixed."
+2025-05-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple posted strong Q1 earnings but issued cautious guidance amid tariffs and macro uncertainty."
+2025-05-06,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Macro headwinds and tech resilience: Microsoft bullish, MGK strong, Qualcomm volatile; overall market momentum neutral amid mixed sentiment."
+2025-05-07,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple faces stagnant iPhone sales and lagging AI, while Buffett trims Apple stake amid macro risks ahead of Fed decision."
+2025-05-08,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tariffs and policy risks weigh on Apple; solid Q2 offset by tariff costs, legal risk, and valuation concerns."
+2025-05-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Earnings are solid; Apple's services/AI upside amid tariffs; Alphabet undervalued despite AI plans; PayPal margins improving; Berkshire may hit $2T."
+2025-05-12,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Trade de-escalation and a 90-day pause boost Apple's supply chain prospects and stock sentiment."
+2025-05-13,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple participates in $130B buyback wave amid macro optimism as Dow rallies on easing U.S.-China tensions."
+2025-05-14,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro relief from U.S.-China tariffs boosts tech stocks; AI demand supports players like Apple, offset by Alphabet-Apple search revenue concerns."
+2025-05-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tariff relief boosts Apple earnings prospects amid tech market growth and Nvidia momentum."
+2025-05-16,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Despite 2025 challenges, investors see strong confidence and attractive valuation for Alphabet."
+2025-05-19,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Macro trade deal supports Apple manufacturing; certified trackers aid ecosystem; tech ETFs remain overweight Apple, underpinning cautious optimism."
+2025-05-20,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: NVIDIA's NVLink Fusion launch signals AI leadership; Broadcom bullish on AI chips; Alphabet valued low with upside; mixed Qualcomm outlook."
+2025-05-21,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Analysts expect Apple shares to rise with Berkshire support and AI monetization potential, despite valuation concerns and Siri delays."
+2025-05-22,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analyst Dan Ives calls U.S.-China tariff truce a dream scenario for Apple amid upcoming iPhone upgrade cycle."
+2025-05-23,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tariff threats on Apple amid US-EU tensions triggered risk-off selling; equities and Bitcoin fell as gold rose."
+2025-05-27,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Markets open mildly higher amid tariff delay; Berkshire's Apple stake remains a key AI-growth holding."
+2025-05-28,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple advances AI-powered J595 tabletop robot amid tariff headwinds and potential long-term wearables market upside."
+2025-05-29,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple underperformed in May; history predicts rebound, downgrade benefits ADX, Pershing Square buys Amazon, CalPERS backs Vanguard S&P 500 ETF."
+2025-05-30,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tariffs ruling may trigger Apple rally; volume near $208 watched; tech ETFs VGT/VIG favored amid volatility; Buffett warns on valuations."
+2025-06-02,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple’s costs may rise from US manufacturing shifts amid tariffs and legal risks, while Berkshire doubles down on Apple."
+2025-06-03,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple faces near-term headwinds with HomePad delay, but long-term growth and Berkshire stake support positive outlook."
+2025-06-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Buffett left Berkshire's Apple stake unchanged as AI stock bets include Apple; tariffs risk higher costs, long-term outlook remains favorable."
+2025-06-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI and cloud growth boosts tech sentiment; Nvidia's potential rise threatens Apple, while regulatory headwinds temper gains."
+2025-06-06,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Roku's stock remains flat, but long-term potential in international markets and its ad-supported services may unlock value."
+2025-06-09,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Tech stocks including Apple face potential summer rally amid rising earnings and AI-driven allocations in VGT."
+2025-06-10,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: WWDC muted AI features weigh on Apple, but AI ecosystem momentum and Berkshire stake plus buybacks support sentiment."
+2025-06-11,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: WWDC AI disappointment weighs on Apple; broader tech signals mixed with Epson, Netflix, and Microsoft outlook."
+2025-06-12,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Analyst says Apple may need to acquire an AI platform to stay competitive amid a broad market backdrop."
+2025-06-13,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets are cautious amid Buffett retirement and Berkshire implications, while a long-term S&P 500 ETF strategy remains appealing"
+2025-06-16,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: bullish
+SUMMARY: Apple remains a core long-term bet with strong cash flow and growth potential, despite modest dividend yield."
+2025-06-17,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: product launch
+EVENT_IMPACT: low
+ANALYST_TONE: bearish
+SUMMARY: Apple's WWDC was seen as underwhelming in AI, signaling limited near-term catalysts."
+2025-06-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Fed policy expectations and geopolitics weigh macro risk, while Nvidia, Netflix, Alphabet, and VGT drive tech upside."
+2025-06-20,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: Global mobile coupons market to grow from $727.3B in 2024 to $1.6T by 2030, driven by smartphones and e-commerce."
+2025-06-23,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains compelling amid tariff headwinds and growing services, while broader market risks include a Tempus AI lawsuit."
+2025-06-24,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: No news available today."
+2025-06-25,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple delays some AI features, but strong finances and ecosystem keep it resilient amid AI market growth and competitive headwinds."
+2025-06-26,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Macro headwinds and competition risk Apple, as peers may surpass its market cap by 2030."
+2025-06-27,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple underperforms now, but expansion of products and Vision Pro may unlock new revenue and longer-term growth."
+2025-06-30,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple looks set for a strong second-half recovery amid bullish macro trends and a S&P rally, underpinned by solid fundamentals."
+2025-07-01,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple faces 2025 headwinds from trade tensions and product delays, while broader markets trend higher and offer alternatives."
+2025-07-02,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets rebounded amid volatility; US equities underperform forecasts, while ETF strategies post solid history; MiLi discounts boost Prime Day demand."
+2025-07-03,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: US stocks push to record highs on macro optimism, tech-led gains, and resilient earnings, despite tariff and jobs-data risks."
+2025-07-07,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple remains positioned for a potential comeback with strong earnings growth, robust cash generation, growing services, and AI positioning."
+2025-07-08,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Global markets up amid optimism; Apple explores Perplexity AI acquisition amid concerns about slow AI rollout."
+2025-07-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Nvidia hits $4 trillion, S&P near highs; Buffett to retire; tech earnings beats; market cautious optimism persists."
+2025-07-10,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Tech stocks show momentum with record buybacks and AI growth, Apple faces a legal AI suit, while Amazon targets $3T."
+2025-07-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple advances AI features and developer tools amid competitive threats and supply-chain diversification, signaling mixed prospects for future stock momentum."
+2025-07-14,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple wrestles with China tariffs and AI delays, causing an 18.1% H1 drop; Buffett still holds Apple within AI-focused bets."
+2025-07-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple MP Materials $500M deal strengthens US rare-earth supply chains; Nvidia hits $4T while markets face tariff and CPI uncertainty."
+2025-07-16,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Tech outlook mixed: Nvidia-led upside potential and Apple holdings buoy sentiment, but AI bets and Magnificent Seven underperformance cloud momentum."
+2025-07-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Markets hover near records with potential buying opportunities while Apple explores foldable AI-driven iPhone to unlock growth."
+2025-07-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: negative
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple faces down 17% in 2024 amid growth slows and AI delays; legal probe adds risk; market broadly bullish."
+2025-07-21,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple and Tesla face Q2 earnings headwinds; Alphabet remains undervalued with AI upside, while Qualcomm diversifies for growth."
+2025-07-22,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analysts boost tech and AI exposure with Nvidia's $4T cap and F1 upside, while Berkshire highlights Apple among growth themes."
+2025-07-23,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Tech sector mixed: Tesla earnings risk weighs, but Alphabet, IYW, and tokenization progress support long-term growth."
+2025-07-24,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets trend mild upward as Apple fundamentals remain strong amid US Japan tariff gains and EU supply concerns"
+2025-07-25,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Mixed signals: earnings upside and AI spending bolster tech optimism, but Apple legal action and market exhaustion temper momentum."
+2025-07-28,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets rally amid strong earnings expectations and AI-led growth, with Dow at highs and Apple, Meta, Alphabet driving upside."
+2025-07-29,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple-MP Materials deal boosts optimism as tech earnings season arrives with Microsoft, Meta, and Amazon reporting."
+2025-07-30,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Meta earnings focus amid AI spend; MLPerf benchmark launched; podcast market grows; SOX signals potential pullback and mixed momentum."
+2025-07-31,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple faces slower AI rollout and regulatory pressures, but services growth and AI opportunities, with earnings upcoming."
+2025-08-01,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple beat Q3 earnings with $1.57 EPS and $94B revenue, signaling AI pivot amid August volatility and mild downward drift."
+2025-08-04,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: Mixed tech signals suggest cautious Apple outlook amid Meta optimism, Berkshire stability, Sirius XM challenges, and Amazon scale."
+2025-08-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Palantir's strong earnings and 2025 growth, plus AI wearables expansion, outweigh Apple's YTD decline in a favorable long-term view"
+2025-08-06,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple earnings strength lifts tech momentum as MP Materials and Nutanix gain, while S&P risks and NAV diversification temper optimism."
+2025-08-07,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple commits $100B in U.S. manufacturing to secure tariff exemptions, boosting AI and domestic production."
+2025-08-08,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple stock climbs after a $600B investment commitment through 2030 for chips and AI, lifting tech sentiment."
+2025-08-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Macro rate-cut signals and market optimism amid mixed Apple moves and Alphabet and GE Aerospace investments."
+2025-08-12,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple gains from MP Materials partnership and positive macro signals, while Epic ruling and tariffs pose regulatory and supply-chain risks."
+2025-08-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple faces iPhone and AI headwinds despite a $100B investment boosting stock and potential tariff relief."
+2025-08-14,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Upcoming Google antitrust ruling could cut Apple search revenue by up to 12%, offset by Coherent-Apple supply gains."
+2025-08-15,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: Berkshire Hathaway sold Apple stake in Q2; Apple is among VGT's top holdings, signaling mixed near-term sentiment."
+2025-08-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tech earnings beats and Magnificent Seven outperformance imply positive upside for Apple amid AI-driven growth."
+2025-08-19,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tech ETFs beat markets; MACD filters aid high-potential stocks; Berkshire underperforms; TSMC aims for $2T by 2028."
+2025-08-20,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple outlines AI/robotics strategy with a 2027 tabletop robot, signaling bullish long-term growth amid market risks."
+2025-08-21,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Markets show cautious tone ahead of Jackson Hole as Nvidia and Alphabet post strong earnings and potential valuation risks loom."
+2025-08-22,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple teams with Alphabet's Gemini to overhaul Siri, amid AI investments, Arm growth, and bearish macro signals."
+2025-08-25,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Markets rally amid Fed expectations while passive-investing risks persist, high-yield strategies emerge, and SoFi reports strong fintech growth."
+2025-08-26,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Nasdaq 100 may rise to about 28,000; Alphabet could reach $3 trillion by 2028 amid AI and cloud growth."
+2025-08-27,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple to launch iPhone 17 with AI features; MP Materials partners with DoD/Apple; ZAGG debuts iPad mini keyboard; Nvidia awaited."
+2025-08-28,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple lags AI progress amid mixed AI-driven signals, while bundles with Apple TV+ bolster services; Nvidia earnings fueling AI optimism."
+2025-08-29,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple gains from services growth and AI potential; Berkshire trims stake, market sentiment remains bullish amid earnings."
+2025-09-02,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple pursues AI-driven growth with record revenue and buybacks amid regulatory headwinds, while Berkshire trims its Apple stake."
+2025-09-03,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple rose on favorable antitrust ruling affecting Google's Chrome deal and eyeing AI startup acquisitions."
+2025-09-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Bullish macro backdrop and AI-led tech rally, with Apple-linked supply deals and favorable regulatory signals boosting tech equities."
+2025-09-05,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple's profitability supports its valuation despite AI hype and privacy and regulatory risks in tech."
+2025-09-08,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Macro data mixed with potential market corrections, AI demand and AI hardware trends seen supporting Apple amid uncertain market."
+2025-09-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro data signals potential Fed rate cuts; equities exhibit modest recovery with upside from UnitedHealth, Google, SoFi, Garmin, and Microsoft."
+2025-09-10,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Oracle AI revenue outlook; rate-cut hopes; AI spending shifting from buybacks; dividend-growth focus; Netflix long-term growth."
+2025-09-11,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven demand boosts tech stocks as Oracle earnings signal AI infra growth and Apple partners with Alibaba on iPhone AI."
+2025-09-12,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Market rally amid rate-cut hopes and AI growth, while Apple sees mixed signals from iPhone 17 launch and FDA feature"
+2025-09-15,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple unveils non-innovative iPhones; AI-driven tech rally and Nvidia growth optimism face regulatory and activist-trade factors."
+2025-09-16,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's new ultra-thin iPhone Air drives stronger early preorder demand than last year."
+2025-09-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets rally toward record highs ahead of Fed decision amid AI-led tech strength and anticipated rate cuts."
+2025-09-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple’s iPhone 17 launch and AI features boost early demand, signaling upside amid modest external headwinds."
+2025-09-19,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: AAPL markets remain subdued ahead of OPEX with declining liquidity and potential shifts post-expiration."
+2025-09-22,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Market shows mild upward momentum amid record highs and a Fed rate cut, with positive sentiment and high macro impact."
+2025-09-23,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: bullish
+SUMMARY: Investing.com screener highlights undervalued under-$10 stocks with strong quarterly gains and investment opportunities."
+2025-09-24,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: ZAGG launches Pro Keys Connect; market outlook for 2025 signals macro risks and volatile tech stocks."
+2025-09-25,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Intel seeks Apple tie-up amid AI-valuations debate as markets rally; wearables grow, GoPro expands tools, macro risks persist."
+2025-09-26,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tokyo store reopening signals strong iPhone 17 demand and bullish Apple outlook."
+2025-09-29,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Berkshire's Buffett retirement shifts focus to Apple-heavy holdings amid mixed macro signals and strong tech earnings."
+2025-09-30,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's holiday strength from iPhone 17 and AI features drives optimism amid cautious macro signals."
+2025-10-01,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: MILN shows strong gains while macro indicators signal potential market overvaluation and passive investing risks."
+2025-10-02,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: U.S. equities rally to record highs on rate-cut optimism and sector leadership despite government shutdown concerns."
+2025-10-03,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Nasdaq 100 faces pullback risk at interim top; Apple removes location-tracking apps after AG warnings; TDV/TDIV discussed."
+2025-10-06,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven growth and earnings optimism support tech giants, led by Alphabet and Microsoft, amid cautious valuations for some peers."
+2025-10-07,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Market dispersion and uncertainty rise as Buffett steps down; Berkshire remains resilient, while value plays and broad ETFs attract investors."
+2025-10-08,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces slowing growth and high valuation ahead of Oct 30 fiscal Q4; market risks include dispersion trades."
+2025-10-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets show mixed but positive momentum: Nvidia export license boosts AI chip outlook amid S&P highs and Berkshire buybacks."
+2025-10-10,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Macro selloff and regulatory scrutiny weighed on tech, despite Berkshire's sizable Apple stake and growth ETF exposure."
+2025-10-13,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets rally on macro cues with AI disruption risk, noting Apple must adapt to OpenAI competition amid rate-cut expectations."
+2025-10-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: The report notes ETF outflows, Target's Circle Week, Microsoft's Copilot launch, AI macro discussion, and Alphabet growth outlook."
+2025-10-15,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Buffett reduced Apple stake by over 46 million shares, shifting to Treasuries amid high valuations and market volatility."
+2025-10-16,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Collar Capital buys Salesforce amid AI growth; TSMC earnings soar; TinyML course launched; AppLovin faces legal probe; AI boosts S&P."
+2025-10-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Broadcom's AI accelerators and Saudi 5G-connected car growth boost tech demand; 2026 tax thresholds may affect investor behavior."
+2025-10-20,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple stock hits all-time highs after Loop Capital upgrades to Buy with a $315 target."
+2025-10-21,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces a China antitrust lawsuit amid solid iPhone 17 sales; market remains mixed with AI and earnings signals."
+2025-10-22,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces EU antitrust scrutiny and iPhone Air cuts, but strong iPhone 17 demand ahead of Q4 earnings."
+2025-10-23,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's new iPhone rollout shows strong early demand, supporting mild upward price momentum amid broader tech softness."
+2025-10-24,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple iPhone 17 shows strong sales; analyst upgrades to buy at $315 amidst AI concerns; equal-weight ETFs, dollar-cost averaging favored."
+2025-10-27,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple named a promising tech stock for 2026 amid AI potential and strong market positioning."
+2025-10-28,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple’s iPhone 17 start and AI progress, with tariff navigation, lift bullish sentiment amid tech-led market strength."
+2025-10-29,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Magnificent Seven exceed $22T with Nvidia at $5T; S&P modestly higher amid tech concentration; Fed risk looms; US Unlocked expands."
+2025-10-30,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple ahead of Q4 earnings with strong iPhone 17 demand and AI-driven growth; target price around $302."
+2025-10-31,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple posted strong Q4 results with record iPhone and Services sales, supporting mild upward price momentum amid mixed tech signals."
+2025-11-03,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple faces regulatory and China-manufacturing risks; Berkshire reinforces mega-cap focus with Apple, others; Principal U.S. Mega-Cap ETF adds 8.7M position."
+2025-11-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple’s iPhone 17 momentum supports 10-12% Q1 2026 sales growth, despite mixed Magnificent Seven performance and Buffett shifts."
+2025-11-05,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple and Microsoft earnings, Roku growth; Berkshire's AI-stock concentration (Apple, Mitsubishi Corp, Amazon) signals AI upside; bubble risk low."
+2025-11-06,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Markets drift lower as macro tariff doubts dampen sentiment; Apple remains cautious on AI, while earnings sentiment remains mixed."
+2025-11-07,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tech downturn and high valuations amid large cash reserves suggest potential market correction and cautious long-term positioning."
+2025-11-10,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro optimism points to a year-end rally with S&P 500 aiming toward 7,120 and positive momentum across markets."
+2025-11-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI-driven tech optimism and a rebound in US tech equities, with Apple highlighted in industry programs and broker incentives."
+2025-11-12,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: neutral
+SUMMARY: Two ETFs offer nearly identical performance; IVV costs 0.03% vs SPY 0.09%."
+2025-11-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Dow hits record highs amid optimism; tech rotation toward traditional sectors; Buffett's record cash reserve signals potential buying opportunities."
+2025-11-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: none
+ANALYST_TONE: bullish
+SUMMARY: Congressman Fields buys Apple; TSMC expands production; SPLG offers lower ETF costs than SPY."
+2025-11-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple leads amid signals: near 52-week highs, AI skepticism, MP Materials ties, Mophie launches, Thiel Nvidia sale, Berkshire AI focus"
+2025-11-18,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Berkshire trimmed Apple stake amid macro market risks; long-term Apple growth remains compelling with tech sector upside"
+2025-11-19,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Berkshire trimmed Apple shares drastically amid AI-led market rotation and perceived Apple stagnation, signaling negative sentiment for Apple shares."
+2025-11-20,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Nvidia earnings beat, Berkshire acquires Alphabet stake, AI optimism clashes with macro caution, Netflix favored over Apple for growth."
+2025-11-21,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro optimism and AI/semiconductor momentum underpin markets; OpenAI-Foxconn partnership and TSMC growth contrast with Simply Good Foods stake sale."
+2025-11-24,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Market shows mild upward momentum with positive sentiment, bolstered by earnings, Buffett’s index fund guidance, and ETF rotation across sectors."
+2025-11-25,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Nvidia and Best Buy earnings beat amid Broadcom-led rally; liquidity risk and diversification warnings temper optimism."
+2025-11-26,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Macro tech supply-chain shifts as Alphabet AI hardware rivals Nvidia; MP Materials to supply Apple magnets; TV growth; Buffett retires."
+2025-11-28,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple faces a legal challenge; markets show mild upward momentum amid growing tech sectors."
+2025-12-01,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Apple dominates Berkshire Hathaway's equity at about 64%, with macro risk-off and tech volatility shaping near-term price momentum."
+2025-12-02,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Analyst predicts Apple may use Intel foundry for low-end M-series; TSM expands production abroad amid macro recovery expectations."
+2025-12-03,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets show mild upward momentum on rate-cut expectations, driven by earnings strength, AI optimism, and large-cap demand."
+2025-12-04,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple stock surges on services/AI momentum amid macro-driven optimism and potential Fed cuts, with broader tech leadership amid AI bets."
+2025-12-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Markets show mild upward momentum on Fed-cut expectations, with Apple-related MP Materials deal and rising MFA app activity."
+2025-12-08,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Analysts are broadly positive on Apple and peers, with Meta shifting to AI and Berkshire's cash reserves bolstering confidence."
+2025-12-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Tech stocks stay buoyant with Apple eyed amid AI bets; Alphabet faces a legal headwind."
+2025-12-10,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets show overvaluation risk with Buffett selling; AI mega-caps, including Apple, favored via Magnificent Seven and growth ETFs."
+2025-12-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Alphabet surpassed Microsoft in market cap as AI investments and rate cuts shape 2026 growth and ETF opportunities."
+2025-12-12,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Berkshire Hathaway trims Apple stake amid Alphabet AI momentum and macro risks, signaling a mixed near-term outlook for Apple."
+2025-12-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Tech leadership and AI momentum, ETFs exposure including Apple, support growth amid expanding QR payments; caution on market overconfidence."
+2025-12-16,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Diversified ETFs, Netflix growth, and Berkshire's cash position shape a cautiously bullish investment outlook."
+2025-12-17,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets are mixed as Berkshire trims Apple and buys Alphabet amid AI leadership bets; TSM weak seasonally; Toobit launches promo."
+2025-12-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven growth supports Apple via Berkshire stake amid macro demand for data centers and AI chips."
+2025-12-19,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Nokia turning around in 2025 with new CEO and Nvidia AI-RAN partnership; Q3 revenue up 12%, profits pressured."
+2025-12-22,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Analyst Daniel Sparks predicts Berkshire may stop trimming AAPL in 2026; Apple remains Berkshire's largest holding with improving fundamentals."
+2025-12-23,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven optimism supports strong upside in equities; Nvidia outperforms, Apple and Alphabet deepen AI collaboration, CAPE warns of potential pullback."
+2025-12-24,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tim Cook bought 50,000 Nike shares after weak Nike earnings, lifting the stock amid turnaround optimism."
+2025-12-26,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Mixed but leaning positive as silver surges, real estate and Coinbase rise; tech outlook split; rare earth volatility adds risk."
+2025-12-29,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-driven growth and robust earnings signals buoy Apple, Amazon, Meta, and Berkshire's core assets."
+2025-12-30,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets enter 2026 with mixed leadership; Apple remains a top holding but overall upside is limited by a macro shift."
+2025-12-31,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analysts foresee 2026 rebound for Apple and peers driven by AI, buybacks, Berkshire leadership change, and Intel capacity expansion."
+2026-01-02,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains favored as a safer tech stock amid AI concerns, with continued earnings growth expectations into 2026."
+2026-01-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analysts foresee 2026 upside for Nvidia, Broadcom, Apple, and Amazon amid Rubin architecture launch and AWS/iPhone growth."
+2026-01-06,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Insider buying in Nike linked to Tim Cook boosts recovery prospects amid AI adoption, sleep wearables growth, and equity-perp trades."
+2026-01-07,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Tech stocks show mild upward momentum with Alphabet's strong earnings and AI initiatives boosting valuations; Intel and dividends support."
+2026-01-08,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple expected to post 10-12% Q1 FY2026 revenue growth amid AI-driven services, with broader AI demand supporting tech equities."
+2026-01-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Analysts foresee AI-led upside for Alphabet with Buffett stake; ETFs offer AI exposure amid high valuations and positive earnings outlook."
+2026-01-12,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple leads smartphone share at 20%, guides Q1 2026 revenue up 10-12%, Gemini-Siri AI integration supports upside potential for investors."
+2026-01-13,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple services hit record revenue; Alphabet surges on AI and favorable antitrust ruling; JPMorgan beat; Berkshire increases Alphabet stake."
+2026-01-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple-Google forge AI backbone; Buffett backs S&P index funds; Intel rally amid AI bets; CES shows mixed innovation."
+2026-01-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI demand and sector rotation buoy tech equities; licensing with Apple and strong chip demand support cautious optimism."
+2026-01-16,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Mixed but bullish tech outlook: TSMC earnings rise, Alphabet tops $4T with Gemini-Siri tie, Broadcom AI-inference growth; risks linger."
+2026-01-20,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI spending surge and major tech uptrends outweigh tariff risks, signaling bullish multi-name tech rally."
+2026-01-21,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analyst-driven AI demand fuels TSMC and Corning growth, Meta AI investments, Apple upside amid 2026 volatility and mobile payments expansion."
+2026-01-22,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple loses TSMC preference, considers Intel for 15-20m chips; AI efforts with Gemini in Siri."
+2026-01-23,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: negative
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple faces valuation concerns and iPhone dependence amid Berkshire selling and earnings upcoming, with oversold RSI implying potential rebound."
+2026-01-26,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Markets face tariff headwinds and cautious sentiment, despite Apple and other mega-caps' earnings and AI demand."
+2026-01-27,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple preps Jan 29 Q1 results; Gemini Siri with Alphabet, strong iPhone 17 sales and services growth, JPMorgan optimistic."
+2026-01-28,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Diversified equity moves amid AI demand and Apple ecosystem strength support upside."
+2026-01-29,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple faces strong Q1 2026 expectations with 11% revenue growth to $138.47B and $2.67 EPS amid iPhone 17 demand."
+2026-01-30,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple reports record Q1 2026 revenue and iPhone sales; stock barely moves as AI/memory pricing guidance remains unclear."
+2026-02-02,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple posted record quarterly revenue and earnings with strong Asia growth, signaling strong upward price momentum."
+2026-02-03,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's Q1 2026 growth driven by a multi-year upgrade cycle, with analysts forecasting record 260M iPhone units by 2027."
+2026-02-04,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Markets show mixed signals: Alphabet faces regulatory headwinds; Meta eyes $3T, AI-driven growth amid rotation to small-cap value stocks."
+2026-02-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple posted strong Q4 results but valuation concerns; Amgen rose on solid earnings and attractive forward valuation."
+2026-02-06,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Broad market trends, vehicle software growth, and Physical AI themes support a bullish stance on Apple amid supply chain shifts."
+2026-02-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple faces mixed signals from AI spending optimism and a broad market rally, implying cautious upside potential."
+2026-02-10,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple outperforms AI peers with cautious approach; Spotify beats earnings; Dow hits 50k; sentiment bullish on tech growth."
+2026-02-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Analysts bullish on Apple ahead of Apple Intelligence and Siri 2.0 launch, citing margin headwinds but AI-driven growth upside."
+2026-02-12,"PRICE_MOMENTUM: strong downward
+NEWS_SENTIMENT: strongly negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tech stocks fell sharply amid macro concerns after Apple led losses, with supply-chain costs and Cisco guidance driving risk-off."
+2026-02-13,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple remains a key player in the growing immersive-gaming market amid broader tech sector weakness and market volatility."
+2026-02-17,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple announced a global 'special Apple Experience' event on March 4, unveiling iPhone 17e and other products."
+2026-02-18,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple faces near-term support risk but gains from March 4 product launch and strong earnings, with bullish analyst outlook."
+2026-02-19,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Berkshire cut Apple exposure in Q4 2025 while markets show Nasdaq strength amid hawkish Fed minutes and international equity rotation."
+2026-02-20,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple remains a recommended long-term AI stock despite some funds rotating out of large-cap tech."
+2026-02-23,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple faces renewed tariff uncertainty as higher global tariffs prompt reevaluation of supply chain and US investments."
+2026-02-24,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple faces AI competition risks and Siri delays, develops new AI devices, expands US manufacturing, while Buffett backs Apple long-term."
+2026-02-25,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Thiel Macro sold Apple amid AI/macro concerns; Tesla targets Optimus production by year-end; VTI praised for diversification."
+2026-02-26,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple shows mild downward price momentum amid insider selling and Buffett trimming stake, amid premium valuation and modest growth."
+2026-02-27,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Tech diverges: semis rally, software slide; Berkshire may trim Apple; Akre buys AKRE; Pool exits; Ghacks goes ad-free EU."
+2026-03-02,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Berkshire cut Apple stake significantly amid Buffett’s exit, valuation concerns, large cash pile, and dividend talks."
+2026-03-03,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Apple launches M5 Macs with AI; Nvidia undervalued on forward multiples; Buffett trims Apple; iPhone 17e expected to lift revenue."
+2026-03-04,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple maintains price-led strategy with iPhone 17e to expand share while leveraging AI and services growth."
+2026-03-05,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple unveils $599 Mac Neo to broaden ecosystem and services revenue growth."
+2026-03-06,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: iPhone 17e launch expands Apple's ecosystem via new accessory compatibility, signaling modest near-term upside for AAPL."
+2026-03-09,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Buffett favors Apple as a strong long-term holding; near-term price pressure and high valuation amid macro tensions and slowing growth."
+2026-03-10,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple's MacBook Neo launch expands addressable PC market amid AI-driven demand, supporting mild price momentum and bullish stance."
+2026-03-11,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: low
+ANALYST_TONE: bearish
+SUMMARY: Mophie launches premium Apple accessories; analyst warns Apple risk from AI leaders; mixed market signals for Apple’s growth."
+2026-03-12,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple posted strong Q1 2026 results, increasing iPhone demand and AI hardware interest; product launches reinforce Buffett-linked bull case."
+2026-03-13,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple advances with budget Neo laptop and Services growth, reinforcing bullish outlook as it nears $3 trillion and 50-year milestone"
+2026-03-16,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple launches budget MacBook Neo and iPhone 17e to gain market share, while AI-driven cloud growth boosts competitiveness in tech."
+2026-03-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: legal
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI chip supply gains and Alphabet buybacks buoy tech outlook amid regulatory actions."
+2026-03-18,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Trade Desk faces client defections and revenue risk; TSMC and Broadcom target $3T market cap amid AI infrastructure spending."
+2026-03-19,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Apple underperformed as Magnificent Seven diverge, with market rotation toward broader exposure and valuation concerns."
+2026-03-20,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: low
+ANALYST_TONE: neutral
+SUMMARY: Apple faces high valuation with limited upside; Berkshire's dividend kings thrive; VONG's gains stress diversification."
+2026-03-23,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets rebounded on a Trump Iran pause; AI/tech optimism and Lilly China investment highlighted; MP Materials expansion cited."
+2026-03-24,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Roku adds Apple TV to its platform amid mixed momentum; analysts see IT and consumer discretionary outperformance, with ETF caution."
+2026-03-25,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Arm unveils AI-optimized AGI CPU with double perf-per-watt; Palantir growth strong but valuation rich; ETFs show mixed signals."
+2026-03-26,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: AI-focused tech ETFs outperform broad peers; Berkshire buybacks boost EPS; Apple remains a mega-cap within diversified tech portfolios."
+2026-03-27,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Micron's HBM4 mass production amid AI demand boosts growth; tech ETFs show long-term strength despite volatility."
+2026-03-30,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: legal
+EVENT_IMPACT: high
+ANALYST_TONE: bearish
+SUMMARY: Apple faces iPhone saturation, China share decline, and App Store regulatory risks; valuation high and growth lagging peers."
+2026-03-31,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: strongly positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro-led rally lifts equities as Nasdaq advances 3.2% and mega-cap gains pair with Buffett’s Apple confidence amid AI optimism."
+2026-04-01,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Global equities show mixed signals with upside risk to Apple and tech despite macro headwinds and AI-driven memory chip costs."
+2026-04-02,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: product launch
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple pivots to third-party AI via Gemini/ChatGPT for Siri in iOS 27, drawing positive analyst support and a conservative strategy."
+2026-04-06,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Valuation concerns from Buffett; multiple tech ETFs undergo splits; equal-weight alternatives advised to reduce tech concentration."
+2026-04-07,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: AI spending surge supports infrastructure bets; Apple remains a long-term bullish AI stock despite near-term volatility."
+2026-04-08,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Tech stocks rose on easing tensions and market breakout, while PANW partnered on a security project amid cautious sentiment."
+2026-04-09,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Macro rally amid Apple services strength and AI demand, offset by high-valued SpaceX IPO and iPhone durability delays."
+2026-04-10,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Diversified bullish view: upside potential in dividend ETFs, AI-chip leaders, durable moats, and a new BLE tracking card."
+2026-04-13,"PRICE_MOMENTUM: mild downward
+NEWS_SENTIMENT: negative
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bearish
+SUMMARY: Analysts flag Apple's stagnant growth and high valuation versus peers like Nvidia, Microsoft, and TSMC."
+2026-04-14,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Buffett adds Apple to indefinite holding list; valuation concerns persist, with AI upside highlighted for peers and Apple as growth."
+2026-04-15,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: analyst
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Tech stocks show mild upward momentum as Nvidia optimism and Amazon-Globalstar deals counterbalance mixed earnings and AI concerns."
+2026-04-16,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: macro
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Markets rally on macro optimism and AI investment expectations, with tech leadership amid geopolitical risk and earnings beat momentum."
+2026-04-17,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Apple gains in China and Qualcomm earnings support upside; FMC weakness and macro signals warrant cautious optimism."
+2026-04-20,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple leads the Magnificent Seven with capital-light AI, strong ecosystem, and earnings momentum, yet trades at a premium."
+2026-04-21,"PRICE_MOMENTUM: neutral
+NEWS_SENTIMENT: positive
+KEY_EVENT: none
+EVENT_IMPACT: high
+ANALYST_TONE: bullish
+SUMMARY: Apple names John Ternus as next CEO, succeeding Tim Cook; Sept 1, 2026 transition viewed as positive amid AI challenges."
+2026-04-22,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: medium
+ANALYST_TONE: bullish
+SUMMARY: Markets rose on earnings optimism as tech leads, Apple remains key holding, while valuations favor Meta and Amazon."
+2026-04-23,"PRICE_MOMENTUM: strong upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: none
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Tim Cook to step down as Apple CEO in Sept 2026; S&P targets 7200 in recovery."
+2026-04-24,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: positive
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: Markets eye mega-cap earnings; AI guidance and Apple buybacks support positives despite Palantir's frothy valuation."
+2026-04-27,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: macro
+EVENT_IMPACT: medium
+ANALYST_TONE: neutral
+SUMMARY: Mixed macro backdrop with near-record equities, Nvidia bullish, Tesla margin gains, leadership changes, and strategic pivots across tech."
+2026-04-28,"PRICE_MOMENTUM: mild upward
+NEWS_SENTIMENT: neutral
+KEY_EVENT: earnings
+EVENT_IMPACT: high
+ANALYST_TONE: neutral
+SUMMARY: AI-led earnings optimism supports mild market upside despite mixed results and high valuations across tech stocks."
