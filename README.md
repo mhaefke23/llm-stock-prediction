@@ -4,7 +4,7 @@ CBS MSc AI & Machine Learning course project — Copenhagen Business School
 
 ## Research question
 
-> Does providing an LLM with financial news improve next-day stock return direction prediction compared to price data alone — and how do LLM-based and tree-based approaches compare to a traditional LSTM baseline?
+> How can large language models be used for stock return prediction, and how does the availability of news data affect predictive performance across LLM-based and trained machine learning approaches?
 
 ## Experimental conditions
 
