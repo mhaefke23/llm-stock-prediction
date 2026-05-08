@@ -40,7 +40,7 @@ All 11 conditions are evaluated on **the same 188 trading days** (Jul 2025 – A
 | X4 — XGB clf (20-day lags) | 53.7% | 87.2% |
 | XN — XGB clf + news | 52.7% | 84.0% |
 
-Random baseline: **50.0%**. Actual market up-rate: **51.6%**. X3's lead is partly attributable to upward prediction bias — see the Discussion in `notebooks/analysis.ipynb` (or `analysis.pdf`).
+Random baseline: **50.0%**. Actual market up-rate: **51.6%**. X3's lead is partly attributable to upward prediction bias — see the Discussion in `notebooks/analysis.ipynb`.
 
 ## Data sources
 
@@ -101,6 +101,8 @@ python src/llm_predict.py --condition L1       # repeat for L2, L3
 
 # 7. Analysis notebook
 jupyter notebook notebooks/analysis.ipynb
+# Export PDF (not committed to repo — requires XeLaTeX)
+# jupyter nbconvert --to pdf --no-input notebooks/analysis.ipynb
 ```
 
 ## Project structure
@@ -118,8 +120,8 @@ jupyter notebook notebooks/analysis.ipynb
 │   ├── train_eval_xgb_news.py  # Walk-forward evaluation — condition XN
 │   └── llm_predict.py          # LLM conditions L1 / L2 / L3
 ├── notebooks/
-│   ├── analysis.ipynb          # Charts, metrics, and discussion (pre-executed)
-│   └── analysis.pdf            # Exported PDF report
+│   ├── analysis.ipynb              # Charts, metrics, and discussion (pre-executed)
+│   └── news_api_coverage_test.ipynb  # News API coverage exploration
 ├── data/processed/             # prices.csv, news_cache.csv, news_reports.csv
 ├── results/                    # predictions_{B,B1,B2,L1,L2,L3,X1,X2,X3,X4,XN}.csv, figures/
 ├── requirements.txt

@@ -65,7 +65,7 @@ llm-stock-prediction/
 │       ├── prices.csv              # AAPL OHLCV + features, Jul 2024 – Apr 2026
 │       ├── news_cache.csv          # Massive/Polygon news, one row per trading day
 │       ├── news_reports.csv        # GPT-5-nano structured daily reports
-│       └── report_embeddings.parquet  # sentence-transformer embeddings (gitignored if large)
+│       └── report_embeddings.parquet  # sentence-transformer embeddings (not committed)
 ├── results/
 │   ├── predictions_B.csv           # LSTM regressor predictions
 │   ├── predictions_B1.csv          # LSTM classifier (seq_len=1) predictions
@@ -94,7 +94,7 @@ llm-stock-prediction/
 │   └── llm_predict.py              # LLM conditions L1 / L2 / L3
 ├── notebooks/
 │   ├── analysis.ipynb              # All charts and metrics (pre-executed)
-│   └── analysis.pdf                # Exported PDF report
+│   └── news_api_coverage_test.ipynb  # News API coverage exploration
 ├── requirements.txt
 ├── .env                            # API keys (gitignored)
 └── .gitignore
@@ -171,8 +171,12 @@ Saves `results/predictions_{L1,L2,L3}.csv`. Each run takes ~5–10 min.
 jupyter notebook notebooks/analysis.ipynb
 ```
 Run all cells top-to-bottom. Figures saved to `results/figures/`.
-Export PDF: `jupyter nbconvert --to pdf --no-input notebooks/analysis.ipynb`
-(requires XeLaTeX — see BasicTeX install instructions).
+
+To export a PDF (not committed to repo):
+```bash
+jupyter nbconvert --to pdf --no-input notebooks/analysis.ipynb
+```
+Requires XeLaTeX (e.g. BasicTeX on macOS).
 
 ## Key design decisions
 
