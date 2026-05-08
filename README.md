@@ -4,7 +4,7 @@ CBS MSc AI & Machine Learning course project — Copenhagen Business School
 
 ## Research question
 
-> How can large language models be used for stock return prediction, and how does the availability of news data affect predictive performance across LLM-based and trained machine learning approaches?
+> How can large language models be used for stock return direction prediction, and how does the availability of financial news - relative to price data alone - affect predictive performance across LLM-based and trained machine learning approaches?
 
 ## Experimental conditions
 
